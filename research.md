@@ -8,8 +8,8 @@ title: Research
 
 <h2>Upcoming Talks</h2>
 
-{% assign talks = site.data.talks | where_exp: "talk", "talk.date !< site.time" %}
-{% for talk in talks%}
+{% assign talks = site.data.talks | where_exp: "date", "date !< site.time" %}
+{% for talk in talks %}
 
 <div class="talk row">
   <div class="talk-date col">{{ talk.date | date: "%b %d" }}</div>
@@ -20,8 +20,6 @@ title: Research
 </div>
 
 {% endfor %}
-
-{{ site.time }}
 
 <h2>Current Work</h2>
 
