@@ -8,7 +8,7 @@ title: Research
 
 <h2>Upcoming Talks</h2>
 
-{% for sit.cv.talks | where_exp: "talk", "talk.date !< site.time" %}
+{% site.cv.talks | where_exp: "talk", "talk.date !< site.time" %}
 
 <div class="talk row">
   <div class="talk-date col">{{ talk.date | date: "%b %d" }}</div>
@@ -24,13 +24,21 @@ title: Research
 
 <p class="item-title">Strange Experience: Why Experience Without Access Makes No Sense</p>
 
+<div class="item-description">
 <p>I introduce a challenge to the view that thinking about minds in a first-personal, how-it-feels way is cleanly separable from thinking about minds in a third-personal, how-it-works way. To show this, I discuss the ‘contrapositive’ of widely-discussed zombie cases: phenomenology without function (rather than function without phenomenology.)</p>
-
-<p class="little-links"><a href="">HTML</a> ・ <a href="">PDF</a> ・ <a href="">Talk Handout</a></p>
+<div class="little-links">
+	<a href="assets/Kernion - Strange Experience.pdf">Draft</a> ・ <a href="assets/Kernion - Strange Experience - Pacific APA Handout.pdf">Talk Handout</a>
+</div>
+</div>
 
 <div class="card bg-faded">
 <div class="card-block"><p style="margin-bottom:0; font-size:10pt;">Take my <a href="">Strange Experience Survey</a> to log your intuitions about my central test case (and see the current results).</p></div></div>
 
 <p class="item-title">The Mental Measurement Problem: The Frictionless Epistemology of Conceptual Dualism</p>
 
+<div class="item-description">
 <p>I try to show how a conceptual gap between first-personal data and third-personal data about the mind leads to insurmountable methodological difficulties for a science of mind.</p>
+<div class="little-links">
+	<p>[DRAFT AVAILABLE ON REQUEST]</p>
+</div>
+</div>
