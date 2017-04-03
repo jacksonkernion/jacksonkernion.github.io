@@ -8,6 +8,8 @@ title: Research
 
 <h2>Upcoming Talks</h2>
 
+{% comment %}
+
 {% site.data.talks | where_exp: "talk", "talk.date !< site.time" %}
 
 <div class="talk row">
@@ -19,6 +21,10 @@ title: Research
 </div>
 
 {% endwhere %}
+
+{% endcomment %}
+
+{{ site.time }}
 
 <h2>Current Work</h2>
 
