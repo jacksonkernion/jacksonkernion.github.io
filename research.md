@@ -9,7 +9,7 @@ title: Research
 <h2>Upcoming Talks</h2>
 
 {% comment %}{% assign talks = site.data.talks | where_exp: "date", "date !< site.time" %} {% endcomment %}
-{% for talk in site.data.talks %}
+{% for talk in site.data.cv.talks %}
 
 <div class="talk row">
   <div class="talk-date col">{{ talk.date | date: "%b %d" }}</div>
