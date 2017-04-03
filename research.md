@@ -12,7 +12,7 @@ title: Research
 {% for talk in site.data.cv.talks %}
 
 <div class="talk row">
-  {% if talk.date%}
+  {% if talk.date %}
   <div class="talk-date col">{{ talk.date | date: "%b %d" }}</div>
   {% elseif talk.start_date %}
   <div class="talk-date col">{{ talk.start_date | date: "%b" }}</div>
