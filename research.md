@@ -14,7 +14,7 @@ title: Research
 <div class="talk row">
   {% if talk.date %}
   <div class="talk-date col">{{ talk.date | date: "%b %d" }}</div>
-  {% elseif talk.start_date %}
+  {% else %}
   <div class="talk-date col">{{ talk.start_date | date: "%b" }}</div>
   {% endif %}
   <div class="col">
