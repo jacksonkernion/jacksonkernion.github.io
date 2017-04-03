@@ -1,0 +1,256 @@
+/* Basics */
+body{
+	font-family: "Source Sans Pro";
+}
+
+h1{
+	font-size: 22px;
+	font-weight: 700;
+	letter-spacing: 0.1em;
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 10px;
+}
+h2{
+	font-size: 22px;
+	font-weight: 400;
+	letter-spacing: 0.08em;
+	color: #888;
+}
+h3{
+	font-size: 15px;
+	margin-top: 30px;
+	font-weight: 700;
+	letter-spacing: 0.16em;
+	color: #888;
+	text-transform: uppercase;
+}
+h5{
+	font-size: 13px;
+	font-weight: 400;
+	letter-spacing: 0.16em;
+	text-transform: uppercase;
+}
+
+
+p{
+	font-size: 16px;
+}
+
+.container{
+	width:860px;
+}
+.full-padded{
+	margin: 30px 60px;
+}
+
+a#first-nav{
+  padding-left: 0;
+}
+
+#nav-top{
+	font-size: 22px;
+	padding: 30px 0px 15px;
+	border-bottom:  1px solid black;
+	letter-spacing: 0.15em;
+	text-transform: uppercase;
+}
+
+.nav li{
+	text-transform: uppercase;
+	letter-spacing: 0.15em;
+	font-weight: 300;
+	color:#444;
+}
+
+.nav li.active{
+	font-weight: 700;
+	color:black;
+	
+}
+
+.nav .active a{
+	background-color: #f8f8f8 !important; 
+	letter-spacing: 0.10em;
+}
+
+.explainer-text{
+	font-weight: 300;
+	font-size: 20px;
+}
+
+/* Setup */
+
+input#add-course-number{
+    width:120px;
+}
+
+input#add-course-title{
+    width:280px;
+}
+
+input#add-course-instructor{
+    width:200px;
+}
+
+input#add-course-timeslot{
+    width:120px;
+}
+
+.inline-button{
+	margin-top: 25px;
+}
+
+td a{
+	display: block;
+	width:100%;
+	cursor: pointer;
+	text-align: center;
+}
+td a:hover{
+	text-decoration: none;
+}
+
+/* Participation */
+
+.participation-well{
+	padding: 0px 30px 15px;
+}
+
+.separator{
+	border-bottom: 1px dotted #888;
+	margin:15px 0px 30px;
+}
+
+.preferences-display{
+	padding-left:30px;
+}
+
+.last-name{
+	color:black;
+}
+.first-name{
+	color:#888;
+}
+
+.past-position-instructor{
+	color:#888;
+}
+
+.past-position-course-label{
+	text-transform: uppercase;
+	font-size: 12px;
+}
+
+
+/* Submit */
+
+#submit-preferences-form textarea{
+	max-width:500px;
+	min-height:200px;
+	margin-bottom:30px;
+}
+
+
+.course-bucket{
+	padding: 15px 30px;
+	min-height:75px;
+}
+
+#sortable-prefs{
+	list-style-type: none;
+	margin-left: -40px;
+}
+
+#sortable-prefs li div.course{
+	cursor: move;
+	border: 1px solid #ccc;
+	padding: 10px;
+	margin: 5px 0px;
+	width:760px;
+}
+
+.course-bucket-label{
+	font-weight: bold;
+	margin-top: 15px;
+}
+
+ol.course-bucket li ol {
+	list-style-type: none;
+	padding-left:30px;
+}
+
+ol.course-bucket .placeholder{
+	border: 1px dotted red;
+	min-height: 40px;
+}
+
+.sortable-course-number, .sortable-course-title, .sortable-course-instructor, .sortable-course-timeslot{
+	display:inline-block;
+}
+
+.sortable-course-number{
+	width:75px;
+}
+
+#sortable-prefs li ol .sortable-course-number{
+	width:45px;
+}
+
+.sortable-course-title{
+	width:320px;
+}
+
+.sortable-course-instructor {
+	width:160px;
+}
+
+.sortable-course-timeslot {
+	width:130px;
+}
+
+
+
+/* Algorithm */
+
+.position-gsi-counter{
+	font-size: 30px;
+	padding:15px 0 30px;
+}
+
+.results-table td, .results-gsiName{
+	white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.results-gsiFirstName{
+	font-size: 14px;
+}
+
+.results-gsiLastName{
+	font-size: 14px;
+	font-weight: 600;
+}
+
+/* History */
+
+.no-data{
+	background-color: #eee;
+}
+.no-pref-data{
+	color:#888;
+	font-size: 12px;
+	text-transform: uppercase;
+}
+.pref-label{
+	font-size: 12px;
+	text-transform: uppercase;
+}
+
+/* Access */
+
+#change-access-form textarea{
+	max-width:500px;
+	min-height:200px;
+	margin-bottom:30px;
+}
