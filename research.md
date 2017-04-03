@@ -15,7 +15,7 @@ title: Research
   {% if talk.date.size > 7 %}
   <div class="talk-date col">{{ talk.date | date: "%b %d" }}</div>
   {% else %}
-  <div class="talk-date col">{{ talk.date | date: "%b" }}</div>
+  <div class="talk-date col">{{ talk.date + "-01" | date: "%b" }}</div>
   {% endif %}
   <div class="col">
     <div class="talk-venue">{{ talk.venue }}</div>
