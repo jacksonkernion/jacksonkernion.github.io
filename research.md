@@ -8,7 +8,7 @@ title: Research
 
 <h2>Upcoming Talks</h2>
 
-{% site.data.cv.talks | where_exp: "talk", "talk.date !< site.time" %}
+{% site.data.talks | where_exp: "talk", "talk.date !< site.time" %}
 
 <div class="talk row">
   <div class="talk-date col">{{ talk.date | date: "%b %d" }}</div>
