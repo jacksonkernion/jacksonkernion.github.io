@@ -8,8 +8,8 @@ title: Research
 
 <h2>Upcoming Talks</h2>
 
-{% assign talks = site.data.talks | where_exp: "date", "date !< site.time" %}
-{% for talk in talks %}
+{% comment %}{% assign talks = site.data.talks | where_exp: "date", "date !< site.time" %} {% endcomment %}
+{% for talk in site.data.talks %}
 
 <div class="talk row">
   <div class="talk-date col">{{ talk.date | date: "%b %d" }}</div>
@@ -23,7 +23,7 @@ title: Research
 
 <h2>Current Work</h2>
 
-<p class="item-title">Strange Experience: Why Experience Without Access Makes No Sense</p>
+<p class="item-title">Strange Experience: <span class="paper-subtitle">Why Experience Without Access Makes No Sense</span></p>
 
 <div class="item-description">
 <p>I introduce a challenge to the view that thinking about minds in a first-personal, how-it-feels way is cleanly separable from thinking about minds in a third-personal, how-it-works way. To show this, I discuss the ‘contrapositive’ of widely-discussed zombie cases: phenomenology without function (rather than function without phenomenology.)</p>
@@ -35,7 +35,7 @@ title: Research
 <div class="card bg-faded">
 <div class="card-block"><p style="margin-bottom:0; font-size:10pt;">Take my <a href="">Strange Experience Survey</a> to log your intuitions about my central test case (and see the current results).</p></div></div>
 
-<p class="item-title">The Mental Measurement Problem: The Frictionless Epistemology of Conceptual Dualism</p>
+<p class="item-title">The Mental Measurement Problem: <span class="paper-subtitle">The Frictionless Epistemology of Conceptual Dualism</span></p>
 
 <div class="item-description">
 <p>I try to show how a conceptual gap between first-personal data and third-personal data about the mind leads to insurmountable methodological difficulties for a science of mind.</p>
