@@ -4,7 +4,7 @@ title: Tools
 
 <h1>Tools</h1>
 
-<p class="page-description">I try to keep up a coding hobby by building tools for myself and for other academics.</p>
+<p class="page-description">I try to keep up a coding hobby by building tools for academics.</p>
 
 <div class="row mb-3">
   <div class="col-12 col-md-4 push-md-8 text-center">

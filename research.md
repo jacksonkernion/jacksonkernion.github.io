@@ -4,24 +4,21 @@ title: Research
 
 <h1 id="research">Research</h1>
 
-<p class="page-description">I’m writing a dissertation on the concept of conscious  experience, arguing that the ‘first-personal’, phenomenal aspects of the mind cannot be <em>conceptually</em> divorced from certain ‘third-personal’, functional aspects of the mind. In jargon form: that a mental state is p-conscious a priori entails that that state is a-conscious.</p>
+<p class="page-description">I’m writing a dissertation on the concept of conscious experience, arguing that the ‘first-personal’ and 'first-personal' phenomenal aspects of the mind cannot be <em>conceptually</em> divorced from certain ‘third-personal’, functional aspects of the mind. In jargon form: that a mental state is p-conscious a priori entails that that state is a-conscious.</p>
 
 <h2>Upcoming Talks</h2>
 
+{% for sit.cv.talks | where_exp: "talk", "talk.date !< site.time" %}
+
 <div class="talk row">
-  <div class="talk-date col">Apr 05</div>
+  <div class="talk-date col">{{ talk.date | date: "%b %d" }}</div>
   <div class="col">
-    <div class="talk-venue">Pacific APA</div>
-    <p class="talk-title">Strange Experience: Why Experience Without Access Makes No Sense</p>
+    <div class="talk-venue">{{ talk.venue }}</div>
+    <p class="talk-title">{{ talk.title }}</p>
   </div>
 </div>
-<div class="talk row">
-  <div class="talk-date col">Apr 05</div>
-  <div class="col">
-    <div class="talk-venue">Science of Consciousness</div>
-    <p class="talk-title">Strange Experience: Why Experience Without Access Makes No Sense</p>
-  </div>
-</div>
+
+{% endfor %}
 
 <h2>Current Work</h2>
 

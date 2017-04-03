@@ -15,10 +15,8 @@ h2{
 	font-weight: 400;
 	letter-spacing: 0.12em;
 	color: #404040;
-	margin-bottom: 10px;
-	padding-top: 30px;
-	padding-bottom:6px;
-	border-bottom: 1px solid #eee;
+	margin-bottom: 15px;
+	padding-top: 20px;
 }
 h3{
 	font-size: 15px;
@@ -37,18 +35,18 @@ h5{
 
 
 p{
-	
+	font-size: 11pt;
 	color: #7F7F7F;
 	line-height: 1.45;
 }
 
-p a{
-	color: #7F7F7F;
-	text-decoration: underline;
+a{
+	color: #2D4BE2;
+	text-decoration: none;
 }
 
 a:hover {
-	color:black;
+	color: #2D4BE2;
 }
 
 .container{
@@ -60,7 +58,7 @@ a:hover {
 	background-color: #f8f8f8; 
 }
 
-.navbar-brand{
+a.navbar-brand{
   padding-left: 0;
   left:0;
   font-size: 12pt;
@@ -70,13 +68,16 @@ a:hover {
   color: black;
 }
 
-
-.nav-link{
+a.nav-link{
 	text-transform: uppercase;
 	letter-spacing: 0.12em;
 	font-weight: 600;
 	color:#7F7F7F;
 	font-size: 10pt;
+}
+
+a.nav-link:hover{
+	color:black;
 }
 
 .nav-link.active{
@@ -119,7 +120,9 @@ a:hover {
 	color: #7F7F7F;
 	font-size: 18pt;
 	font-weight: 400;
-	margin-bottom: 60px;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+	border-bottom: 1px solid #eee;
 }
 
 .page-divider {
@@ -130,11 +133,33 @@ a:hover {
 }
 
 .item-title {
+	font-size: 12pt;
 	font-weight: 600;
 	color: black;
 	margin-bottom: 6px;
 }
 
+.item-description p{
+	margin-bottom: 7px;
+}
+.item-description{
+	margin-bottom: 1rem;
+}
+
+.paper-subtitle {
+	font-weight: 400;
+	color: black;
+	margin-bottom: 6px;
+}
+
+.little-links{
+	text-transform: uppercase;
+	letter-spacing: 0.12em;
+	font-weight: 600;
+	font-size: 9pt;
+}
+
+/*
 .little-links{
 	text-transform: uppercase;
 	letter-spacing: 0.12em;
@@ -154,6 +179,7 @@ a:hover {
 	text-decoration: none;
 }
 
+
 .little-links a::after {
   content: '';
   position: absolute;
@@ -164,6 +190,7 @@ a:hover {
   border-bottom: 1.3px solid;
   margin-top: 7px;
 }
+*/
 
 .talk-venue{
 	text-transform: uppercase;
@@ -181,6 +208,10 @@ a:hover {
 	font-weight: 600;
 	padding-right: 0;
 	max-width:60px;
+}
+
+.talk-title{
+	font-size: 11pt;
 }
 
 .tools-img{
