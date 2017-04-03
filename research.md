@@ -18,7 +18,7 @@ title: Research
   </div>
 </div>
 
-{% endfor %}
+{% endwhere %}
 
 <h2>Current Work</h2>
 
