@@ -12,11 +12,10 @@ title: Research
 {% for talk in site.data.cv.talks %}
 
 <div class="talk row">
-  {% if talk.date.size > 7 %}
+  {% if talk.date%}
   <div class="talk-date col">{{ talk.date | date: "%b %d" }}</div>
-  {% else %}
-  {% assign talk.date = talk.date | append: "-01" %}
-  <div class="talk-date col">{{ talk.date | date: "%b" }}</div>
+  {% elseif talk.start_date %}
+  <div class="talk-date col">{{ talk.start_date | date: "%b" }}</div>
   {% endif %}
   <div class="col">
     <div class="talk-venue">{{ talk.venue }}</div>
@@ -44,7 +43,5 @@ title: Research
 
 <div class="item-description">
 <p>I try to show how a conceptual gap between first-personal data and third-personal data about the mind leads to insurmountable methodological difficulties for a science of mind.</p>
-<div class="little-links">
-	<p>[DRAFT AVAILABLE ON REQUEST]</p>
-</div>
+<p>[DRAFT AVAILABLE ON REQUEST]</p>
 </div>
