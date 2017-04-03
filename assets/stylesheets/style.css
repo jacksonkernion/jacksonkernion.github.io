@@ -1,0 +1,196 @@
+/* Basics */
+body{
+	font-family: "Source Sans Pro";
+	line-height: 1.3;
+}
+
+h1{
+	font-size: 20pt;
+	font-weight: 600;
+	padding-bottom: 0px;
+
+}
+h2{
+	font-size: 16pt;
+	font-weight: 400;
+	letter-spacing: 0.12em;
+	color: #404040;
+	margin-bottom: 10px;
+	padding-top: 30px;
+	padding-bottom:6px;
+	border-bottom: 1px solid #eee;
+}
+h3{
+	font-size: 15px;
+	margin-top: 30px;
+	font-weight: 700;
+	letter-spacing: 0.16em;
+	color: #888;
+	text-transform: uppercase;
+}
+h5{
+	font-size: 13px;
+	font-weight: 400;
+	letter-spacing: 0.16em;
+	text-transform: uppercase;
+}
+
+
+p{
+	
+	color: #7F7F7F;
+	line-height: 1.45;
+}
+
+p a{
+	color: #7F7F7F;
+	text-decoration: underline;
+}
+
+a:hover {
+	color:black;
+}
+
+.container{
+	max-width:720px;
+}
+
+
+.navbar{
+	background-color: #f8f8f8; 
+}
+
+.navbar-brand{
+  padding-left: 0;
+  left:0;
+  font-size: 12pt;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  color: black;
+}
+
+
+.nav-link{
+	text-transform: uppercase;
+	letter-spacing: 0.12em;
+	font-weight: 600;
+	color:#7F7F7F;
+	font-size: 10pt;
+}
+
+.nav-link.active{
+	color:black;
+	letter-spacing: 0.10em;
+}
+
+.explainer-text{
+	font-weight: 300;
+	font-size: 20px;
+}
+
+.card {
+	margin-bottom: 1rem;
+}
+
+/* Deafault Page Elements */
+
+.about-container{
+	color: #7F7F7F;
+	margin-bottom: 0;
+	margin:50px 0;
+}
+
+.short-bio{
+	font-size: 18pt;
+	font-weight: 400;
+}
+
+.profile{
+	max-height:151px;
+	margin:8px 0 30px;
+}
+
+.main {
+	margin-top: 30px;
+}
+
+.page-description {
+	color: #7F7F7F;
+	font-size: 18pt;
+	font-weight: 400;
+	margin-bottom: 60px;
+}
+
+.page-divider {
+	width:150px;
+	border-bottom: 1.5px solid #BFBFBF;
+	margin:45px auto 15px;
+
+}
+
+.item-title {
+	font-weight: 600;
+	color: black;
+	margin-bottom: 6px;
+}
+
+.little-links{
+	text-transform: uppercase;
+	letter-spacing: 0.12em;
+	font-weight: 600;
+	color:#7F7F7F;
+	font-size: 9pt;
+	margin-bottom: 19px;
+}
+
+.little-links a{
+ 	display: inline-block;
+  	position: relative;
+  	text-decoration: none;
+}
+
+.little-links a:hover{
+	text-decoration: none;
+}
+
+.little-links a::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  display: inline-block;
+  height: 1em;
+  width: 100%;
+  border-bottom: 1.3px solid;
+  margin-top: 7px;
+}
+
+.talk-venue{
+	text-transform: uppercase;
+	color:black;
+	letter-spacing: 0.12em;
+	font-size: 9pt;
+	font-weight: 600;
+}
+
+.talk-date{
+	text-transform: uppercase; 
+	color:#7F7F7F;
+	letter-spacing: 0.12em;
+	font-size: 9pt;
+	font-weight: 600;
+	padding-right: 0;
+	max-width:60px;
+}
+
+.tools-img{
+	max-height:200px;
+	border: 1px solid #eee;
+}
+
+
+
+
+
+
+

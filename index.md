@@ -1,5 +1,13 @@
 
-<p class="landing-bio">I’m a Philosophy PhD student at UC Berkeley, working primarily in philosophy of mind, epistemology, and philosophy of science.</p>
+<div class="row about-container">
+  <div class="col-12 col-sm-3 text-center">
+    <img src="assets/images/profile.jpg" class="rounded img-fluid profile">
+  </div>
+  <div class="col-12, col-sm-9">
+    <p class="short-bio"> I’m a Philosophy PhD student at UC Berkeley, working primarily in philosophy of mind, epistemology, and philosophy of science.</p>
+    <p class="email">jacksonkernion@gmail.com</p>
+  </div>
+</div>
 
 <!-- 
 
