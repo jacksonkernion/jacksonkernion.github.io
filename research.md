@@ -4,7 +4,7 @@ title: Research
 
 <h1 id="research">Research</h1>
 
-<p class="page-description">I’m writing a dissertation on the concept of conscious experience, arguing that the ‘first-personal’ and 'first-personal' phenomenal aspects of the mind cannot be <em>conceptually</em> divorced from certain ‘third-personal’, functional aspects of the mind. In jargon form: that a mental state is p-conscious a priori entails that that state is a-conscious.</p>
+<p class="page-description">I’m writing a dissertation on the concept of conscious experience, arguing that our 'first-personal' understanding of conscious experience is continuous with our 'third-personal' understanding.</p>
 
 <h2>Upcoming Talks</h2>
 
@@ -43,5 +43,5 @@ title: Research
 
 <div class="item-description">
 <p>I try to show how a conceptual gap between first-personal data and third-personal data about the mind leads to insurmountable methodological difficulties for a science of mind.</p>
-<p>[DRAFT AVAILABLE ON REQUEST]</p>
+<p>(Draft available on request.)</p>
 </div>

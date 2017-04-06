@@ -1,5 +1,5 @@
 
-<div class="row about-container">
+<div class="row about-container align-items-center">
   <div class="col-12 col-sm-3 text-center">
     <img src="assets/images/profile.jpg" class="rounded img-fluid profile">
   </div>
