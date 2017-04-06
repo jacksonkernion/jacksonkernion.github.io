@@ -40,8 +40,12 @@ title: Research
 <div class="card-block"><p style="margin-bottom:0; font-size:10pt;">Take my <a href="">Strange Experience Survey</a> to log your intuitions about my central test case (and see the current results).</p></div></div>
 
 <p class="item-title">The Mental Measurement Problem: <span class="paper-subtitle">The Frictionless Epistemology of Conceptual Dualism</span></p>
-
 <div class="item-description">
-<p>I try to show how a conceptual gap between first-personal data and third-personal data about the mind leads to insurmountable methodological difficulties for a science of mind.</p>
+<p>I try to show how a conceptual gap between first-personal data and third-personal data leads to insurmountable methodological difficulties for a science of mind.</p>
 <p>(Draft available on request.)</p>
+
+<p class="item-title">The Conceptual Interaction Problem: <span class="paper-subtitle">The Impossible Metaphysics of Conceptual Dualism</span></p>
+<div class="item-description">
+<p>I try to show how a conceptual gap between the functional and the phenomenal makes any metaphysical link between the two unintelligible. In short, we run into a conceptual interaction problem that mirrors the old, familiar substance interaction problem.</p>
+<p>(Draft in progress.)</p>
 </div>
