@@ -5,7 +5,7 @@
   </div>
   <div class="col-12, col-sm-9">
     <p class="short-bio">I’m a Philosophy PhD student at UC Berkeley, working primarily in philosophy of mind, epistemology, and philosophy of science.</p>
-    <p>I graduated from Harvard in 2012 with a philosophy degree in the interdisciplinary Mind, Brain, and Behavior program.</p>
+    <p class="short-bio">I graduated from Harvard in 2012 with a philosophy degree in the interdisciplinary Mind, Brain, and Behavior program.</p>
     <p class="email">jacksonkernion@gmail.com</p>
   </div>
 </div>
