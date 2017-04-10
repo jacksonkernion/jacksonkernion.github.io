@@ -37,7 +37,7 @@ title: Research
 </div>
 
 <div class="card bg-faded">
-<div class="card-block"><p style="margin-bottom:0; font-size:10pt;">Take my <a href="">Strange Experience Survey</a> to log your intuitions about my central test case (and see the current results).</p></div></div>
+<div class="card-block"><p style="margin-bottom:0; font-size:10pt;">Take my super short <a href="https://docs.google.com/forms/d/e/1FAIpQLSfKN9CzRFSTkLHfXIUNBZ7sVlA_J6t5qm7LIkx086wBxs3pHQ/viewform?usp=sf_link">Strange Experience Survey</a> to log your intuitions about my central test case (and see the current results).</p></div></div>
 
 <p class="item-title">The Mental Measurement Problem: <span class="paper-subtitle">The Frictionless Epistemology of Conceptual Dualism</span></p>
 <div class="item-description">
