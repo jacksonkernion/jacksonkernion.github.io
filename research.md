@@ -6,7 +6,7 @@ title: Research
 
 <p class="page-description">I’m writing a dissertation on the concept of conscious experience, arguing that our 'first-personal' understanding of conscious experience is continuous with our 'third-personal' understanding.</p>
 
-<h2>Upcoming Talks</h2>
+<h2>Recent and Upcoming Talks</h2>
 
 {% comment %}{% assign talks = site.data.talks | where_exp: "date", "date !< site.time" %} {% endcomment %}
 {% for talk in site.data.cv.talks %}
