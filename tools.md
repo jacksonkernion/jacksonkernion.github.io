@@ -24,6 +24,7 @@ title: Tools
   <div class="col-12, col-md-8 pull-md-4">
     <p class="item-title">GSI Assigner</p>
     <p>As part of an effort by the Berkeley grad students to improve on the way graduate student instructors (GSIs were assigned to courses, I put together a website that collects teaching preferences and recommends optimal, stable assignments (using an algorithm inspired by work on the stable marriage problem).</p>
+    <p>As part of an effort by the Berkeley grad students to improve on the way graduate student instructors (GSIs) were assigned to courses, I put together a website that collects teaching preferences and recommends optimal, stable assignments (using an algorithm inspired by work on the stable marriage problem).</p>
     <!-- <p class="little-links"><a href="http://gsiassigner.herokuapp.com">View Website</a></p> -->
   </div>
 </div>
