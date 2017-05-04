@@ -16,11 +16,11 @@ education:
   - degree: "A.B."
     year: "2012"
   	department: "Philosophy"
-  institution: "Harvard College"
-  note: "With Certificate in Mind, Brain, and Behavior (Interdisciplinary CogSci Program)"
-  subsections:
-    thesis: "How We Make Emotions"
-    supervisor: "Sean D. Kelly"
+    institution: "Harvard College"
+    note: "With Certificate in Mind, Brain, and Behavior (Interdisciplinary CogSci Program)"
+    subsections:
+      thesis: "How We Make Emotions"
+      supervisor: "Sean D. Kelly"
 talks:
   - venue: "Pacific APA"
     date: 2017-04-12
