@@ -11,7 +11,7 @@ title: Research
 
 How does our concept of conscious experience constrain attempts to understand the mind’s place in nature? Many think there’s an in-principle difficulty in moving between the first-personal concept of experience and the sorts of third-personal concepts that feature in scientific theorizing: we can’t read off any facts about objective functional structure from facts about subjective experience, and vice versa. But this has some under-appreciated costs: it would undermine our justification for everyday judgments about experience, and it would render the metaphysics of mind unintelligible. In fact, we can see, by reflecting on cases of functionally isolated experiences (which I take to be incoherent), that our notion of experience must be a functional notion of some kind or other. Conceiving of a phenomenal mind already involves the conception of a certain kind of underlying functional structure in which various experiences are embedded and through which they bear relations to one another. And seeing this allows us to better understand why brains are the sorts of things that can be the seats of experience while jars of mayonnaise--which don’t have the right functional organization--can't be.
 
-For the details of my account, see standalone versions of some of the chapters:
+Self-standing drafts of some of the chapters :
 
 <p class="item-title">Strange Experience: <span class="paper-subtitle">Why Experience Without Access Makes No Sense</span></p>
 
@@ -31,24 +31,27 @@ For the details of my account, see standalone versions of some of the chapters:
 <div class="item-description">
 <p>I show how a conceptual gap between first-personal data and third-personal data leads to insurmountable methodological difficulties for a science of mind.</p>
 <p>(Draft available on request.)</p>
+</div>
 
 <p class="item-title">The Conceptual Interaction Problem: <span class="paper-subtitle">The Impossible Metaphysics of Conceptual Dualism</span></p>
 <div class="item-description">
 <p>I show how a conceptual gap between the functional and the phenomenal makes any metaphysical link between the two unintelligible. In short, we run into a conceptual interaction problem that mirrors the old, familiar substance interaction problem.</p>
 <p>(Draft in progress.)</p>
+</div>
 
 ## Other Work
 
 Some other projects that I'm working on:
 
+<p class="item-title">Cognitive Architecture and Computation</p>
 
-Cognitive Architecture and Computation
-
+<div class="item-description">
 While I mostly focus on conceptual issues in my dissertation (where I argue that minds, in general, are integrated systems which unify the outputs of many task-specific subsystems), my preferred conceptual conclusions naturally lead to future work that lies at the intersection of philosophy and science--work that goes about the task of constructing a model of the contingent architecture of human minds that conforms to the a priori constraints laid out in my dissertation. Here, I'm most interested in showing that we can't specify a general 'thinking module' over and above the collection task-specific modules: 'thinking' is just the ebb and flow of outputs that are dumped into a single global workspace.
+</div>
 
-The Puzzling Anti-Realism of Contemporary Physics
+<p class="item-title">The Puzzling Anti-Realism of Contemporary Physics</p>
 
-A 'reductionist' approach to knowledge
+<p class="item-title">A Reductionist Approach to Knowledge</p>
 
 
 
