@@ -10,6 +10,25 @@
   </div>
 </div>
 
+<h2>Recent + Upcoming Talks</h2>
+
+{% comment %}{% assign talks = site.data.talks | where_exp: "date", "date !< site.time" %} {% endcomment %}
+{% for talk in site.data.cv.talks %}
+
+<div class="talk row">
+  {% if talk.date %}
+  <div class="talk-date col">{{ talk.date | date: "%b %d" }}</div>
+  {% else %}
+  <div class="talk-date col">{{ talk.start_date | date: "%b" }}</div>
+  {% endif %}
+  <div class="col">
+    <div class="talk-venue">{{ talk.venue }}</div>
+    <p class="talk-title">{{ talk.title }}</p>
+  </div>
+</div>
+
+{% endfor %}
+
 <!-- 
 
 Later...
