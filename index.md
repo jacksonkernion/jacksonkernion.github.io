@@ -1,7 +1,7 @@
 
-<div class="row about-container align-items-center">
-  <div class="col-12 col-sm-4 push-sm-8 text-center">
-    <img src="assets/images/profile.jpg" class="rounded img-fluid profile mt-md-0 mb-md-0 mt-4 mb-4">
+<div class="row about-container">
+  <div class="profile col-12 col-sm-4 push-sm-8 text-center">
+    <img src="assets/images/profile.jpg" class="rounded img-fluid">
     <div class="contact-links">
       <div class="email">jacksonkernion@gmail.com</div>
       <div class="social-links">
