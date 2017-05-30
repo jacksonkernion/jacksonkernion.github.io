@@ -2,6 +2,7 @@
 body{
 	font-family: "Source Sans Pro";
 	line-height: 1.3;
+	background-color: #F8F7F5;
 }
 
 h1{
@@ -13,7 +14,7 @@ h1{
 h2{
 	font-size: 16pt;
 	font-weight: 400;
-	color: #404040;
+	color: #414040;
 	margin-bottom: 15px;
 	padding-top: 20px;
 }
@@ -22,7 +23,7 @@ h3{
 	margin-top: 30px;
 	font-weight: 700;
 	letter-spacing: 0.16em;
-	color: #888;
+	color: #8A8888;
 	text-transform: uppercase;
 }
 h5{
@@ -35,17 +36,18 @@ h5{
 
 p{
 	font-size: 12pt;
-	color: #7F7F7F;
-	line-height: 1.3;
+	color: #7F7D7D;
+	line-height: 1.4;
 }
 
 a{
-	color: #2D4BE2;
+	color: #7F7D7D;
 	text-decoration: none;
 }
 
 a:hover {
-	color: #2D4BE2;
+	text-decoration: none;
+	color: black;
 }
 
 .container{
@@ -54,7 +56,7 @@ a:hover {
 
 
 .navbar{
-	background-color: #f8f8f8; 
+	/* background-color: #f8f8f8; */
 }
 
 a.navbar-brand{
@@ -98,12 +100,45 @@ a.nav-link:hover{
 .about-container{
 	color: #7F7F7F;
 	margin-bottom: 0;
-	margin:50px 0;
+	margin:50px 0 30px;
 }
 
 .profile{
-	max-height:151px;
-	margin:8px 0 30px;
+	padding-top: 8px;
+}
+.profile img{
+	max-height:180px;
+	filter: grayscale(95%) sepia(10%) brightness(1.15);
+}
+
+.short-bio{
+	padding-left:0px;
+}
+
+.short-bio p{
+	font-size: 18pt;
+	color: #7F7D7D;
+	font-weight: 400;
+	line-height: 1.3;
+}
+
+.short-bio p:last-child{
+	margin-bottom: 0;
+}
+
+.email{
+	font-size: 11pt;
+	padding: 15px 0 10px;
+}
+
+.social-links{
+	font-size: 15pt;
+	padding-bottom:20px;
+}
+
+.social-links a{
+	padding: 0 10pt;
+	border-bottom: none;
 }
 
 .main {
@@ -111,17 +146,18 @@ a.nav-link:hover{
 }
 
 .page-description {
-	color: #7F7F7F;
+	color: #7F7D7D;
 	font-size: 18pt;
 	font-weight: 400;
 	padding-bottom: 20px;
 	margin-bottom: 20px;
+	line-height: 1.3;
 }
 
 .page-divider {
 	width:150px;
 	border-bottom: 1.5px solid #BFBFBF;
-	margin:45px auto 15px;
+	margin:30px auto;
 
 }
 
@@ -148,6 +184,7 @@ a.nav-link:hover{
 	letter-spacing: 0.12em;
 	font-weight: 600;
 	font-size: 9pt;
+	color: #7F7D7D;
 }
 
 /*
@@ -158,16 +195,21 @@ a.nav-link:hover{
 	color:#7F7F7F;
 	font-size: 9pt;
 	margin-bottom: 19px;
-}
+} */
 
 .little-links a{
  	display: inline-block;
   	position: relative;
   	text-decoration: none;
+  	border-bottom: ;
+	padding-bottom: 2px;
+
 }
 
 .little-links a:hover{
 	text-decoration: none;
+	border-color: black;
+	
 }
 
 
@@ -178,10 +220,9 @@ a.nav-link:hover{
   display: inline-block;
   height: 1em;
   width: 100%;
-  border-bottom: 1.3px solid;
+  border-bottom: 1.5px solid #7F7D7D;
   margin-top: 7px;
 }
-*/
 
 .talk-venue{
 	text-transform: uppercase;

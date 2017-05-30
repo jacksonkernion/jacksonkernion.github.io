@@ -1,13 +1,23 @@
 
 <div class="row about-container align-items-center">
-  <div class="col-12 col-sm-3 text-center">
-    <img src="assets/images/profile.jpg" class="rounded img-fluid profile">
+  <div class="col-12 col-sm-4 push-sm-8 text-center">
+    <img src="assets/images/profile.jpg" class="rounded img-fluid profile mt-md-0 mb-md-0 mt-4 mb-4">
+    <div class="contact-links">
+      <div class="email">jacksonkernion@gmail.com</div>
+      <div class="social-links">
+        <a href="https://www.facebook.com/jackson.kernion"><i class="fa fa-facebook" aria-hidden="true"></i></a> 
+        <a href="https://twitter.com/JacksonKernion"><i class="fa fa-twitter" aria-hidden="true"></i></a> 
+        <a href="https://github.com/jacksonkernion"><i class="fa fa-github" aria-hidden="true"></i></a> 
+      </div>
+    </div>
   </div>
-  <div class="col-12 col-sm-9 page-description">
-    I’m a Philosophy PhD student at UC Berkeley, working primarily in philosophy of mind, epistemology, and philosophy of science. <br/><br/>
-    I graduated from Harvard in 2012 with a philosophy degree in the interdisciplinary Mind, Brain, and Behavior program.
+  <div class="col-12 col-sm-8 pull-sm-4 short-bio">
+    <p>I’m a Philosophy PhD student at UC Berkeley, working primarily in philosophy of mind, epistemology, and philosophy of science.</p>
+    <p>I graduated from Harvard in 2012 with a philosophy degree in the interdisciplinary Mind, Brain, and Behavior program.</p>
   </div>
 </div>
+
+<div class="page-divider"></div>
 
 ## Recent + Upcoming Talks
 
