@@ -22,7 +22,7 @@ Strange Experience: Why Experience Without Access Makes No Sense
 I introduce a challenge to the view that thinking about minds in a first-personal, how-it-feels way is cleanly separable from thinking about minds in a third-personal, how-it-works way. I focus on a thought experimenet involving phenomenology without function, the ‘contrapositive’ of widely-discussed zombie cases.
 
 {: .little-links }
-[Draft](assets/Kernion - Strange Experience.pdf") ・ [Talk Handout](assets/Kernion - Strange Experience - Pacific APA Handout.pdf)
+[Draft](assets/Kernion - Strange Experience.pdf) ・ [Talk Handout](assets/Kernion - Strange Experience - Pacific APA Handout.pdf)
 
 {: .item-title}
 The Mental Measurement Problem: The Frictionless Epistemology of Conceptual Dualism
