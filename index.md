@@ -3,7 +3,7 @@
   <div class="col-12 col-sm-3 text-center">
     <img src="assets/images/profile.jpg" class="rounded img-fluid profile">
   </div>
-  <div class="col-12 col-sm-9 pag-description">
+  <div class="col-12 col-sm-9 page-description">
     I’m a Philosophy PhD student at UC Berkeley, working primarily in philosophy of mind, epistemology, and philosophy of science.
     
     I graduated from Harvard in 2012 with a philosophy degree in the interdisciplinary Mind, Brain, and Behavior program.
