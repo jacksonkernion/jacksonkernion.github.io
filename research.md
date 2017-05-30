@@ -8,6 +8,7 @@ title: Research
 {: .page-description }
 I’m currently finishing up a dissertation on our concept of conscious experience, arguing that it's a functional concept.
 
+<div class="page-divider"></div>
 
 ## Dissertation
 
@@ -43,6 +44,8 @@ I show how a conceptual gap between the functional and the phenomenal makes any 
 
 {: .little-links }
 Draft available on request
+
+<div class="page-divider"></div>
 
 ## Other Work
 

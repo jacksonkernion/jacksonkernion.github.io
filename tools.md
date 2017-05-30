@@ -7,6 +7,8 @@ title: Tools
 {: .page-description }
 I keep up a coding hobby by building tools for academics.
 
+<div class="page-divider"></div>
+
 <div class="row mb-3">
   <div class="col-12 col-md-4 push-md-8 text-center">
     <img src="assets/images/papergrader.jpg" class="rounded img-fluid tools-img mt-md-0 mb-md-0 mt-4 mb-4">
