@@ -4,15 +4,16 @@
     <img src="assets/images/profile.jpg" class="rounded img-fluid profile">
   </div>
   <div class="col-12, col-sm-9">
-    <p class="short-bio">I’m a Philosophy PhD student at UC Berkeley, working primarily in philosophy of mind, epistemology, and philosophy of science.</p>
-    <p class="short-bio">I graduated from Harvard in 2012 with a philosophy degree in the interdisciplinary Mind, Brain, and Behavior program.</p>
-    <p class="email">jacksonkernion@gmail.com</p>
+    {: .page-description}
+    I’m a Philosophy PhD student at UC Berkeley, working primarily in philosophy of mind, epistemology, and philosophy of science.
+    
+    {: .page-description}
+    I graduated from Harvard in 2012 with a philosophy degree in the interdisciplinary Mind, Brain, and Behavior program.
   </div>
 </div>
 
-<h2>Recent + Upcoming Talks</h2>
+## Recent + Upcoming Talks
 
-{% comment %}{% assign talks = site.data.talks | where_exp: "date", "date !< site.time" %} {% endcomment %}
 {% for talk in site.data.cv.talks %}
 
 <div class="talk row">

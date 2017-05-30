@@ -13,7 +13,6 @@ h1{
 h2{
 	font-size: 16pt;
 	font-weight: 400;
-	letter-spacing: 0.12em;
 	color: #404040;
 	margin-bottom: 15px;
 	padding-top: 20px;
@@ -102,11 +101,6 @@ a.nav-link:hover{
 	margin:50px 0;
 }
 
-.short-bio{
-	font-size: 18pt;
-	font-weight: 400;
-}
-
 .profile{
 	max-height:151px;
 	margin:8px 0 30px;
@@ -122,7 +116,6 @@ a.nav-link:hover{
 	font-weight: 400;
 	padding-bottom: 20px;
 	margin-bottom: 20px;
-	border-bottom: 1px solid #eee;
 }
 
 .page-divider {
@@ -137,11 +130,9 @@ a.nav-link:hover{
 	font-weight: 600;
 	color: black;
 	margin-bottom: 6px;
+	padding-top: 7px;
 }
 
-.item-description p{
-	margin-bottom: 7px;
-}
 .item-description{
 	margin-bottom: 1rem;
 }
