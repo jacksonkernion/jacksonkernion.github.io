@@ -1,4 +1,3 @@
-
 ---
 short-bio: |
   I’m a Philosophy PhD student at UC Berkeley, working primarily in philosophy of mind, epistemology, and philosophy of science.
@@ -7,9 +6,6 @@ short-bio: |
 
 ---
 
-
-
-<div class="page-divider"></div>
 
 ## Recent + Upcoming Talks
 
