@@ -1,4 +1,5 @@
 ---
+title: Ho
 short-bio: |
   I’m a Philosophy PhD student at UC Berkeley, working primarily in philosophy of mind, epistemology, and philosophy of science.
 
@@ -7,7 +8,7 @@ short-bio: |
 ---
 
 
-## Recent + Upcoming Talks
+# Recent + Upcoming Talks
 
 {% for talk in site.data.cv.talks %}
 
