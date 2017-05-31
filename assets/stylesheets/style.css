@@ -5,20 +5,20 @@ body{
 	background-color: #F8F7F5;
 }
 
-h1{
+.page-title{
 	font-size: 20pt;
 	font-weight: 600;
 	padding-bottom: 0px;
 
 }
-h2{
+h1{
 	font-size: 18pt;
 	font-weight: 400;
 	color: #414040;
 	margin-bottom: 15px;
 	margin-top: 20px;
 }
-h3{
+h2{
 	font-size: 15px;
 	margin-top: 30px;
 	font-weight: 700;

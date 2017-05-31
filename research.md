@@ -1,16 +1,9 @@
 ---
 title: Research
+description: I’m working on a dissertation about our concept of conscious experience, arguing that it's a functional concept.
 ---
 
-{: #research }
-# Research
-
-{: .page-description }
-I’m currently finishing up a dissertation on our concept of conscious experience, arguing that it's a functional concept.
-
-<div class="page-divider"></div>
-
-## Dissertation
+# Dissertation
 
 How does our concept of conscious experience constrain attempts to understand the mind’s place in nature? Many think there’s an in-principle difficulty in moving between the first-personal concept of experience and the sorts of third-personal concepts that feature in scientific theorizing: we can’t read off any facts about objective functional structure from facts about subjective experience, and vice versa. But this has some under-appreciated costs: it undermines our justification for everyday judgments about experience, and it renders the metaphysics of mind unintelligible—or so I argue.
 
@@ -47,7 +40,7 @@ Draft available on request
 
 <div class="page-divider"></div>
 
-## Other Work
+# Other Work
 
 Some other projects that I'm working on:
 
