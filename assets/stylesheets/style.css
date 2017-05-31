@@ -166,7 +166,7 @@ a.nav-link:hover{
 .page-divider {
 	width:150px;
 	border-bottom: 1.5px solid #ddd;
-	margin:45px auto;
+	margin:35px auto 45px;
 
 }
 
