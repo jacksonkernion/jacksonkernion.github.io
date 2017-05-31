@@ -10,7 +10,8 @@ body{
 	font-weight: 600;
 	padding-bottom: 0px;
 	line-height: 1.1;
-	margin: .67em 0;
+	margin-bottom: .67em;
+	margin-top: 0;
 }
 h1{
 	font-size: 18pt;
