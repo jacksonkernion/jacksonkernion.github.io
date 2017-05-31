@@ -94,7 +94,6 @@ a.nav-link:hover{
 
 .nav-link.active{
 	color:black;
-	letter-spacing: 0.105em;
 }
 
 .explainer-text{

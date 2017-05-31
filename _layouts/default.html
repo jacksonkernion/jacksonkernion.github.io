@@ -7,37 +7,43 @@
   <link rel="stylesheet" href="assets/stylesheets/font-awesome-4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" media="all" href="assets/stylesheets/style.css" type="text/css">
   <title>{% if page.title %}{{ page.title }} &mdash; {% endif %}Jackson Kernion</title>
+
+  <link rel="author" href="https://plus.google.com/+jacksonkernion"/>
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta charset="utf-8">
   <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@jacksonkernion">
-    <meta name="twitter:creator" content="@jacksonkernion">
-    {% if page.title %}
-    <meta property="og:title" content="{{ page.title }}">
-    <meta name="twitter:title" content="{{ page.title }}">
-      {% if page.description %}
-      <meta name="description" content="{{ page.description }}">
-      <meta name="og:description" content="{{ page.description }}">
-      <meta name="twitter:description" content="{{ page.description }}">
-      {% else if page.short-bio %}
-      <meta name="description" content="{{ page.short-bio | strip_html | truncatewords: 25 }}">
-      <meta name="og:description" content="{{ page.short-bio | strip_html | truncatewords: 25 }}">
-      <meta name="twitter:description" content="{{ page.short-bio | strip_html | truncatewords: 25 }}">
-      {% else if content %}
-      <meta name="description" content="{{ content | strip_html | truncatewords: 25 }}">
-      <meta name="og:description" content="{{ content | strip_html | truncatewords: 25 }}">
-      <meta name="twitter:description" content="{{ content | strip_html | truncatewords: 25 }}">
-      {% endif %}
-    {% else %}
+  <meta name="twitter:site" content="@jacksonkernion">
+  <meta name="twitter:creator" content="@jacksonkernion">
+  
+  {% if page.title %}
+  <meta property="og:title" content="{{ page.title }} &mdash; Jackson Kernion">
+  <meta name="twitter:title" content="{{ page.title }} &mdash; Jackson Kernion">
+  
+  {% if page.description %}
+  <meta name="description" content="{{ page.description }}">
+  <meta name="og:description" content="{{ page.description }}">
+  <meta name="twitter:description" content="{{ page.description }}">
+  {% elsif page.short-bio %}
+  <meta name="description" content="{{ page.short-bio | strip_html }}">
+  <meta name="og:description" content="{{ page.short-bio | strip_html }}">
+  <meta name="twitter:description" content="{{ page.short-bio | strip_html }}">
+  {% elsif content %}
+  <meta name="description" content="{{ content | strip_html | truncatewords: 25 }}">
+  <meta name="og:description" content="{{ content | strip_html | truncatewords: 25 }}">
+  <meta name="twitter:description" content="{{ content | strip_html | truncatewords: 25 }}">
+  {% else %}
       <meta name="description" content="Jackson Kernion's website">
-    {% endif %}
-    <meta property="og:url" content="https://jacksonkernion.com{{ page.url }}">
-    <meta property="og:site_name" content="jacksonkernion.com">
-    <meta property="og:type" content="article">
-    <meta property="og:locale" content="en_GB" />
-    {% if page.date %}
-    <meta property="article:published_time" content="{{ page.date | date: "%Y-%m-%d" }}">
-    {% endif %}
+  {% endif %}
+
+  <meta property="og:url" content="https://jacksonkernion.com{{ page.url }}">
+  <meta property="og:site_name" content="jacksonkernion.com">
+  <meta property="og:type" content="article">
+  <meta property="og:locale" content="en_GB" />
+  
+  {% if page.date %}
+  <meta property="article:published_time" content="{{ page.date | date: "%Y-%m-%d" }}">
+  {% endif %}
+
 </head>
 <body>
 <nav class="navbar navbar-toggleable">
