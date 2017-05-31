@@ -63,7 +63,7 @@
 
 <div class="main container">
 
-  {% if page.title %}
+  {% if page.title and page.title != "Home"%}
   <div class="page-title">{{ page.title }}</div>
   {% endif %}
 
@@ -85,7 +85,7 @@
     </div>
   </div>
   <div class="col-12 col-sm-8 pull-sm-4 short-bio">
-    {{{ page.short-bio}}}
+    {{ page.short-bio }}
   </div>
   </div>
   {% endif %}

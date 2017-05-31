@@ -1,6 +1,6 @@
 ---
-title: Ho
-short-bio: |
+title: Home
+short-bio: >
   I’m a Philosophy PhD student at UC Berkeley, working primarily in philosophy of mind, epistemology, and philosophy of science.
 
   I graduated from Harvard in 2012 with a philosophy degree in the interdisciplinary Mind, Brain, and Behavior program.
