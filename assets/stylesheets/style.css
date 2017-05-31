@@ -76,7 +76,7 @@ a.navbar-brand{
   font-size: 12pt;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.17em;
+  letter-spacing: 0.15em;
   color: black;
 }
 
@@ -94,7 +94,7 @@ a.nav-link:hover{
 
 .nav-link.active{
 	color:black;
-	letter-spacing: 0.10em;
+	letter-spacing: 0.105em;
 }
 
 .explainer-text{
