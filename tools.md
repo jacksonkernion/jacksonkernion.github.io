@@ -1,27 +1,7 @@
 ---
 title: Tools
 description: I keep up a coding hobby by building tools for academics.
-tools:
-  - title: Paper Grader
-    image: papergrader.jpg
-    description: This is a simple tool that helps streamline the paper-grading process. Students submit their papers at a unique assignment URL, teachers mark up the papers online, and all graded papers can be returned with one click.
-    links: <a href="{{a.link}}">Website</a> ・ <a href="http://papergrader.org/demo">Demo</a></p>
 ---
-
-{% for tool in tools %}
-
-<div class="row mb-3">
-  <div class="col-12 col-md-4 push-md-8 text-center">
-    <img src="assets/images/{{ tool.image }}" class="rounded img-fluid tools-img mt-md-0 mb-md-0 mt-4 mb-4">
-  </div>
-  <div class="col-12, col-md-8 pull-md-4">
-    <p class="item-title">{{tool.title}}</p>
-    <p>{{tool.description}}</p>
-    <p class="little-links">{{tool.links}}</p>
-  </div>
-</div>
-
-{% endfor %}
 
 <div class="row mb-3">
   <div class="col-12 col-md-4 push-md-8 text-center">
