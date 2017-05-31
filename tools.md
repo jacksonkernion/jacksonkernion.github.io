@@ -17,21 +17,7 @@ tools:
   <div class="col-12, col-md-8 pull-md-4">
     <p class="item-title">{{tool.title}}</p>
     <p>{{tool.description}}</p>
-    <p class="little-links">tool.links</p>
-  </div>
-</div>
-
-{% endfor %}
-
-<div class="talk row">
-  {% if talk.date %}
-  <div class="talk-date col">{{ talk.date | date: "%b %d" }}</div>
-  {% else %}
-  <div class="talk-date col">{{ talk.start_date | date: "%b" }}</div>
-  {% endif %}
-  <div class="col">
-    <div class="talk-venue">{{ talk.venue }}</div>
-    <p class="talk-title">{{ talk.title }}</p>
+    <p class="little-links">{{tool.links}}</p>
   </div>
 </div>
 
