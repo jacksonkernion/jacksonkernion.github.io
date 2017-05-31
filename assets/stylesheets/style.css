@@ -57,6 +57,15 @@ a:hover {
 
 .navbar{
 	/* background-color: #f8f8f8; */
+	/* margin-top: 10px; */
+	/* got rid of padding to allow for border */
+	padding-bottom: 0;
+
+}
+
+.navbar-border{
+	border-bottom: 1.5px solid #eae8e8;
+	width: 100%;
 }
 
 a.navbar-brand{
@@ -65,7 +74,7 @@ a.navbar-brand{
   font-size: 12pt;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.18em;
+  letter-spacing: 0.17em;
   color: black;
 }
 
@@ -156,7 +165,7 @@ a.nav-link:hover{
 
 .page-divider {
 	width:150px;
-	border-bottom: 1.5px solid #BFBFBF;
+	border-bottom: 1.5px solid #ddd;
 	margin:30px auto;
 
 }
