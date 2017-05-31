@@ -16,7 +16,7 @@ h2{
 	font-weight: 400;
 	color: #414040;
 	margin-bottom: 15px;
-	padding-top: 20px;
+	margin-top: 20px;
 }
 h3{
 	font-size: 15px;
@@ -166,7 +166,7 @@ a.nav-link:hover{
 .page-divider {
 	width:150px;
 	border-bottom: 1.5px solid #ddd;
-	margin:30px auto;
+	margin:45px auto;
 
 }
 
