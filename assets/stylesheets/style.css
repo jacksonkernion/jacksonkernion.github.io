@@ -108,7 +108,7 @@ a.nav-link:hover{
 }
 .profile img{
 	max-height:180px;
-	filter: grayscale(95%) sepia(10%) brightness(1.15);
+	filter: grayscale(15%) sepia(10%) brightness(1.13);
 }
 
 .short-bio{
