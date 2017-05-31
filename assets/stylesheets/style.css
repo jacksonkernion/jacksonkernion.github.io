@@ -220,6 +220,7 @@ a.nav-link:hover{
 
 .little-links a:hover{
 	text-decoration: none;
+	color: black;
 }
 
 
