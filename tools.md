@@ -1,7 +1,8 @@
 ---
 title: Tools
-description: I keep up a coding hobby by building tools for academics.
 ---
+
+<h1>Tools</h1>
 
 <div class="row mb-3">
   <div class="col-12 col-md-4 push-md-8 text-center">
