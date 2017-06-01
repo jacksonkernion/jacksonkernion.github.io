@@ -6,10 +6,19 @@ body{
 }
 
 h1{
-	font-size: 20pt;
-	font-weight: 600;
+	font-size: 18pt;
+	font-weight: 400;
 	padding-bottom: 0px;
+	margin-top: 3rem;
+	margin-bottom: 1rem;
 }
+
+body h1:first{
+	margin-top:0;
+}
+
+
+
 h2{
 	font-size: 16pt;
 	font-weight: 400;
@@ -171,12 +180,12 @@ a.nav-link:hover{
 	font-size: 12pt;
 	font-weight: 600;
 	color: black;
-	margin-bottom: 6px;
-	padding-top: 7px;
+	margin-bottom: .3rem;
+	margin-top: .5rem;
 }
 
 .item-description{
-	margin-bottom: 1rem;
+	margin-bottom: .3rem;
 }
 
 .paper-subtitle {
