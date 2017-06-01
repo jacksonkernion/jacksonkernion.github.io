@@ -15,7 +15,7 @@ I love handouts. Some samples:
 - [Theory of Knowledge - Guest Lecture on Dogmatism](assets/Kernion - Phil 122 Guest Lecture - Dogmatism.pdf)
 
 
-# Courses Taught as Graduate Student Instructor
+# Courses Taught as GSI
 
 {: .item-title}
 Metaphysics

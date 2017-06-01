@@ -180,12 +180,13 @@ a.nav-link:hover{
 	font-size: 12pt;
 	font-weight: 600;
 	color: black;
-	margin-bottom: .3rem;
+	/* margin-bottom: .3rem; */
 	margin-top: .5rem;
 }
 
 .item-description{
 	margin-bottom: .3rem;
+	line-height: 1;
 }
 
 .paper-subtitle {
