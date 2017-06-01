@@ -11,7 +11,7 @@ Strange Experience: <span class="subtitle">Why Experience Without Access Makes N
 I introduce a challenge to the view that thinking about minds in a first-personal, how-it-feels way is cleanly separable from thinking about minds in a third-personal, how-it-works way. I focus on a thought experimenet involving phenomenology without function, the ‘contrapositive’ of widely-discussed zombie cases.
 
 {: .little-links }
-[Draft](assets/Kernion - Strange Experience.pdf) ・ [Pacific APA Handout](assets/Kernion - Strange Experience - Pacific APA Handout.pdf)
+[<i class="fa fa-file-o" aria-hidden="true"></i> Draft](assets/Kernion - Strange Experience.pdf) ・ [<i class="fa fa-file-o" aria-hidden="true"></i> Pacific APA Handout](assets/Kernion - Strange Experience - Pacific APA Handout.pdf)
 
 {: .item-title}
 The Mental Measurement Problem: The Frictionless Epistemology of Conceptual Dualism
