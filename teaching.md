@@ -19,6 +19,15 @@ I &#9829; handouts. Some samples:
 [<i class="fa fa-file-o" aria-hidden="true"></i> Guest Lecture on Dogmatism](assets/Kernion - Phil 122 Guest Lecture - Dogmatism.pdf)
 </p>
 
+<p class="little-links">
+<a href="/assets/Kernion%20-%20Writing%20Handout.pdf"><i class="fa fa-file-o" aria-hidden="true"></i> Writing Handout</a>
+<br/>
+<a href="/assets/Kernion%20-%20Phil%20125%20Handout%20-%20Parfit's%20The%20Puzzle%20of%20Reality.pdf"><i class="fa fa-file-o" aria-hidden="true"></i> Parfit’s “The Puzzle of Reality”</a>
+<br/>
+<a href="/assets/Kernion%20-%20Phil%20122%20Guest%20Lecture%20-%20Dogmatism.pdf"><i class="fa fa-file-o" aria-hidden="true"></i> Guest Lecture on Dogmatism</a>
+</p>
+
+
 
 # Courses Taught as GSI
 
