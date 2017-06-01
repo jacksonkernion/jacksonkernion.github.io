@@ -9,7 +9,7 @@ title: Tools
     <img src="assets/images/papergrader.jpg" class="rounded img-fluid tools-img mt-md-0 mb-md-0 mt-4 mb-4">
   </div>
   <div class="col-12, col-md-8 pull-md-4">
-    <p class="item-title"><a href="http://papergrader.org">Paper Grader<a></p>
+    <p class="item-title"><a href="http://papergrader.org">Paper Grader</a></p>
     <p>This is a simple tool that helps streamline the paper-grading process. Students submit their papers at a unique assignment URL, teacherspaper mark up these is done via a clean online interface, and all graded papers can be returned with one click.</p>
     <p class="little-links"><a href="http://papergrader.org/demo">Demo</a></p>
   </div>
