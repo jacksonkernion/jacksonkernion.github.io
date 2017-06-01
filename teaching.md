@@ -8,7 +8,7 @@ I grade student papers anonymously using a simple online tool I built, [Paper Gr
 
 I create interactive practice problems for my logic students at [deductivelogic.org](http://deductivelogic.org), a tool I originally built for Ned Hall's introductory logic course at Harvard. Here's [a demo problem set](http://deductivelogic.org/psets/demo).
 
-I U+2665 handouts. Some samples:
+<p>I U+2665 handouts. Some samples:</p>
 
 {: .little-links }
 [<i class="fa fa-file-o" aria-hidden="true"></i> Writing Handout](assets/Kernion - Writing Handout.pdf)
