@@ -193,16 +193,8 @@ a.nav-link:hover{
 	color: #7F7D7D;
 }
 
-/*
-.little-links{
-	text-transform: uppercase;
-	letter-spacing: 0.12em;
-	font-weight: 600;
-	color:#7F7F7F;
-	font-size: 9pt;
-	margin-bottom: 19px;
-} */
 
+/*
 .little-links a{
  	display: inline-block;
   	position: relative;
@@ -234,6 +226,7 @@ a.nav-link:hover{
 
   border-color: black;
 }
+*/
 
 .talk-venue{
 	text-transform: uppercase;
