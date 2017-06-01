@@ -5,22 +5,19 @@ body{
 	background-color: #F8F7F5;
 }
 
-.page-title{
+h1{
 	font-size: 20pt;
 	font-weight: 600;
 	padding-bottom: 0px;
-	line-height: 1.1;
-	margin-bottom: .5rem;
-	margin-top: 0;
 }
-h1{
-	font-size: 18pt;
+h2{
+	font-size: 16pt;
 	font-weight: 400;
 	color: #414040;
 	margin-bottom: 15px;
 	margin-top: 20px;
 }
-h2{
+h3{
 	font-size: 15px;
 	margin-top: 30px;
 	font-weight: 700;
@@ -34,7 +31,6 @@ h5{
 	letter-spacing: 0.16em;
 	text-transform: uppercase;
 }
-
 
 p{
 	font-size: 12pt;
