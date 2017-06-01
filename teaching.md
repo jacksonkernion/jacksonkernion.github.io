@@ -8,7 +8,7 @@ I grade student papers anonymously using a simple online tool I built, [Paper Gr
 
 I create interactive practice problems for my logic students at [deductivelogic.org](http://deductivelogic.org), a tool I originally built for Ned Hall's introductory logic course at Harvard. Here's [a demo problem set](http://deductivelogic.org/psets/demo).
 
-I <i class="fa fa-heart" aria-hidden="true"> handouts. Some samples:
+I ❤️ handouts. Some samples:
 
 {{: .little-links}}
 [<i class="fa fa-file-o" aria-hidden="true"></i> Writing Handout](assets/Kernion - Writing Handout.pdf)
@@ -19,7 +19,7 @@ I <i class="fa fa-heart" aria-hidden="true"> handouts. Some samples:
 # Courses Taught as GSI
 
 {: .item-title}
-Metaphysics <span class="subtitle">・ Geoffrey Lee ・ FALL 2016</span>
+Metaphysics <span class="subtitle">・ Geoffrey Lee ・ Fall 2016</span>
 
 {: .item-title}
 Modern Philosophy
