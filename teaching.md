@@ -2,55 +2,53 @@
 title: Teaching
 ---
 
-# Teaching Tools + Materials
+# Teaching Tools & Materials
 
-I grade student papers anonymously using [Paper Grader](http://papergrader.org), a simple online tool that I built. Check out [the demo](http://papergrader.org/demo).
+I grade student papers anonymously using a simple online tool I built, [Paper Grader](http://papergrader.org). Try out [the demo](http://papergrader.org/demo).
 
-I create interactive practice problems for my logic students at [deductivelogic.org](http://deductivelogic.org), a tool I originally built for Ned Hall's introductory logic course at Harvard. Here's [the demo problem set](http://deductivelogic.org/psets/demo).
+I create interactive practice problems for my logic students at [deductivelogic.org](http://deductivelogic.org), a tool I originally built for Ned Hall's introductory logic course at Harvard. Here's [a demo problem set](http://deductivelogic.org/psets/demo).
 
-I love handouts. Some samples:
+I <i class="fa fa-heart" aria-hidden="true"> handouts. Some samples:
 
-- [Writing Handout](assets/Kernion - Writing Handout.pdf)
-- [Metaphysics - Parfit's "The Puzzle of Reality" Explainer](assets/Kernion - Phil 125 Handout - Parfit's The Puzzle of Reality.pdf)
-- [Theory of Knowledge - Guest Lecture on Dogmatism](assets/Kernion - Phil 122 Guest Lecture - Dogmatism.pdf)
+[<i class="fa fa-file-o" aria-hidden="true"></i> Writing Handout](assets/Kernion - Writing Handout.pdf)
+[<i class="fa fa-file-o" aria-hidden="true"></i> Metaphysics - Parfit's "The Puzzle of Reality" Explainer](assets/Kernion - Phil 125 Handout - Parfit's The Puzzle of Reality.pdf)
+[<i class="fa fa-file-o" aria-hidden="true"></i> Theory of Knowledge - Guest Lecture on Dogmatism](assets/Kernion - Phil 122 Guest Lecture - Dogmatism.pdf)
 
 
 # Courses Taught as GSI
 
 {: .item-title}
-Metaphysics
-{: .item-description }
-Geoffrey Lee ・ FALL 2016
+Metaphysics <span class="subtitle">・ Geoffrey Lee ・ FALL 2016</span>
 
 {: .item-title}
 Modern Philosophy
 {: .item-description } 
-Hannah Ginsborg ・ SPRING 2016
+Hannah Ginsborg ・ Spring 2016
 
 {: .item-title}
 Philosophical Methods
 {: .item-description } 
-Barry Stroud ・  FALL 2015
+Barry Stroud ・  Fall 2015
 
 {: .item-title}
 The Nature of Mind
 {: .item-description }
-Umrao Sethi ・ SUMMER 2015
+Umrao Sethi ・ Summer 2015
 
 {: .item-title}
 Knowledge & Its Limits
 {: .item-description }
-John Perry ・ SPRING 2015
+John Perry ・ Spring 2015
 
 {: .item-title}
 Theory of Knowledge
 {: .item-description }
-Barry Stroud ・ FALL 2014
+Barry Stroud ・ Fall 2014
 
 {: .item-title}
 Introduction to Logic
 {: .item-description }
-Daniel Warren ・ SPRING 2014
+Daniel Warren ・ Spring 2014
 
 {: .item-title}
 The Nature of Mind
