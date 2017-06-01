@@ -12,7 +12,11 @@ I U+2665 handouts. Some samples:
 
 {: .little-links }
 [<i class="fa fa-file-o" aria-hidden="true"></i> Writing Handout](assets/Kernion - Writing Handout.pdf)
+
+{: .little-links }
 [<i class="fa fa-file-o" aria-hidden="true"></i> Metaphysics - Parfit's "The Puzzle of Reality" Explainer](assets/Kernion - Phil 125 Handout - Parfit's The Puzzle of Reality.pdf)
+
+{: .little-links }
 [<i class="fa fa-file-o" aria-hidden="true"></i> Theory of Knowledge - Guest Lecture on Dogmatism](assets/Kernion - Phil 122 Guest Lecture - Dogmatism.pdf)
 
 
