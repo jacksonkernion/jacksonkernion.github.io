@@ -59,7 +59,7 @@ p{
 }
 
 .container{
-	max-width:720px;
+	max-width:660px;
 }
 
 
@@ -142,7 +142,7 @@ a.nav-link:hover{
 }
 
 .social-links{
-	font-size: 15pt;
+	font-size: 12pt;
 	padding-bottom:20px;
 }
 
