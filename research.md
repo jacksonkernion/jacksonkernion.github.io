@@ -5,7 +5,7 @@ title: Research
 # Papers
 
 {: .item-title}
-Strange Experience: Why Experience Without Access Makes No Sense
+Strange Experience: <span class="subtitle">Why Experience Without Access Makes No Sense</span>
 
 {: .item-description }
 I introduce a challenge to the view that thinking about minds in a first-personal, how-it-feels way is cleanly separable from thinking about minds in a third-personal, how-it-works way. I focus on a thought experimenet involving phenomenology without function, the ‘contrapositive’ of widely-discussed zombie cases.
