@@ -10,43 +10,43 @@ I create interactive practice problems for my logic students at [deductivelogic.
 
 I &#9829; handouts. Some samples:
 
-{: .little-links }
+<p class="little-links"}
 [<i class="fa fa-file-o" aria-hidden="true"></i> Writing Handout](assets/Kernion - Writing Handout.pdf)
-
+<br/>
 {: .little-links }
 [<i class="fa fa-file-o" aria-hidden="true"></i> Parfit's "The Puzzle of Reality"](assets/Kernion - Phil 125 Handout - Parfit's The Puzzle of Reality.pdf)
-
-{: .little-links }
+<br/>
 [<i class="fa fa-file-o" aria-hidden="true"></i> Guest Lecture on Dogmatism](assets/Kernion - Phil 122 Guest Lecture - Dogmatism.pdf)
+</p>
 
 
 # Courses Taught as GSI
 
 {: .item-title}
-Metaphysics <span class="subtitle">・ Geoffrey Lee ・ Fall 2016</span>
+Metaphysics <span class="item-details">・ Geoffrey Lee ・ Fall 2016</span>
 
 {: .item-title}
-Modern Philosophy <span class="subtitle">・ Hannah Ginsborg ・ Spring 2016</span>
+Modern Philosophy <span class="item-details">・ Hannah Ginsborg ・ Spring 2016</span>
 
 {: .item-title}
-Philosophical Methods <span class="subtitle">・ Barry Stroud ・ Fall 2015</span>
+Philosophical Methods <span class="item-details">・ Barry Stroud ・ Fall 2015</span>
 
 
 {: .item-title}
-The Nature of Mind <span class="subtitle">・ Umrao Sethi ・ Summer 2015</span>
+The Nature of Mind <span class="item-details">・ Umrao Sethi ・ Summer 2015</span>
 
 {: .item-title}
-Knowledge & Its Limits <span class="subtitle">・ John Perry ・ Spring 2015</span>
+Knowledge & Its Limits <span class="item-details">・ John Perry ・ Spring 2015</span>
 
 {: .item-title}
-Theory of Knowledge <span class="subtitle">・ Barry Stroud ・ Fall 2014</span>
+Theory of Knowledge <span class="item-details">・ Barry Stroud ・ Fall 2014</span>
 
 {: .item-title}
-Introduction to Logic <span class="subtitle">・ Daniel Warren ・ Spring 2014</span>
+Introduction to Logic <span class="item-details">・ Daniel Warren ・ Spring 2014</span>
 
 {: .item-title}
-The Nature of Mind <span class="subtitle">・ John Campbell ・ Fall 2013</span>
+The Nature of Mind <span class="item-details">・ John Campbell ・ Fall 2013</span>
 
 {: .item-title}
-Philosophy of Mind <span class="subtitle">・ Paul Skokowski ・ Summer 2013</span>
+Philosophy of Mind <span class="item-details">・ Paul Skokowski ・ Summer 2013</span>
 

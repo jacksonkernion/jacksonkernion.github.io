@@ -14,7 +14,7 @@ I introduce a challenge to the view that thinking about minds in a first-persona
 [<i class="fa fa-file-o" aria-hidden="true"></i> Draft](assets/Kernion - Strange Experience.pdf) ・ [<i class="fa fa-file-o" aria-hidden="true"></i> Pacific APA Handout](assets/Kernion - Strange Experience - Pacific APA Handout.pdf)
 
 {: .item-title}
-The Mental Measurement Problem: The Frictionless Epistemology of Conceptual Dualism
+The Mental Measurement Problem: <span class="subtitle">The Frictionless Epistemology of Conceptual Dualism</span>
 
 {: .item-description }
 I show how a conceptual gap between first-person data and third-person data leads to insurmountable methodological difficulties for a science of mind.
@@ -23,7 +23,7 @@ I show how a conceptual gap between first-person data and third-person data lead
 Draft available on request
 
 {: .item-title}
-The Conceptual Interaction Problem: The Impossible Metaphysics of Conceptual Dualism
+The Conceptual Interaction Problem: <span class="subtitle">The Impossible Metaphysics of Conceptual Dualism</span>
 
 {: .item-description }
 I show how a conceptual gap between the functional and the phenomenal makes any metaphysical link between the two unintelligible. In short, we run into a conceptual interaction problem that mirrors the old, familiar substance interaction problem.
