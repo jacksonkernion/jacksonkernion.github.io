@@ -10,15 +10,6 @@ I create interactive practice problems for my logic students at [deductivelogic.
 
 I &#9829; handouts. Some samples:
 
-<p class="little-links"}
-[<i class="fa fa-file-o" aria-hidden="true"></i> Writing Handout](assets/Kernion - Writing Handout.pdf)
-<br/>
-{: .little-links }
-[<i class="fa fa-file-o" aria-hidden="true"></i> Parfit's "The Puzzle of Reality"](assets/Kernion - Phil 125 Handout - Parfit's The Puzzle of Reality.pdf)
-<br/>
-[<i class="fa fa-file-o" aria-hidden="true"></i> Guest Lecture on Dogmatism](assets/Kernion - Phil 122 Guest Lecture - Dogmatism.pdf)
-</p>
-
 <p class="little-links">
 <a href="/assets/Kernion%20-%20Writing%20Handout.pdf"><i class="fa fa-file-o" aria-hidden="true"></i> Writing Handout</a>
 <br/>
