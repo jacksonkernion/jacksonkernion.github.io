@@ -1,30 +1,15 @@
 ---
 title: Home
 short-bio: |
-  I’m a Philosophy PhD student at UC Berkeley, working primarily in philosophy of mind, epistemology, and philosophy of science.
+  I’m a Philosophy PhD student at UC Berkeley. I work primarily in philosophy of mind, epistemology, and philosophy of science. I argue in my dissertation that our concept of conscious experience is a particular kind of functional concept.
 
   I graduated from Harvard in 2012 with a philosophy degree in the interdisciplinary Mind, Brain, and Behavior program.
 
+  I keep up a coding hobby by building [tools](/tools) for academics. I meditate (not frequently enough). I like to hike, [debate](https://medium.com/@jacksonkernion/harvard-wants-to-ban-gender-discrimination-heres-why-that-s-smart-b9d4a5652fbb) [politics](https://medium.com/@jacksonkernion/trumpism-represents-a-gamergate-style-backlash-against-pc-culture-672d65058999), and play complex [board](https://boardgamegeek.com/boardgame/13/catan) [games](https://boardgamegeek.com/boardgame/68448/7-wonders). 
+
+  [Full CV (PDF)](assets/CV - Jackson Kernion.pdf)
+
 ---
-
-
-# Recent + Upcoming Talks
-
-{% for talk in site.data.cv.talks %}
-
-<div class="talk row">
-  {% if talk.date %}
-  <div class="talk-date col">{{ talk.date | date: "%b %d" }}</div>
-  {% else %}
-  <div class="talk-date col">{{ talk.start_date | date: "%b" }}</div>
-  {% endif %}
-  <div class="col">
-    <div class="talk-venue">{{ talk.venue }}</div>
-    <p class="talk-title">{{ talk.title }}</p>
-  </div>
-</div>
-
-{% endfor %}
 
 <!-- 
 
