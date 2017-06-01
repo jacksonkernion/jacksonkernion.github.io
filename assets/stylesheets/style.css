@@ -142,7 +142,7 @@ a.nav-link:hover{
 }
 
 .social-links{
-	font-size: 12pt;
+	font-size: 13pt;
 	padding-bottom:20px;
 }
 
@@ -201,7 +201,8 @@ a.nav-link:hover{
 	letter-spacing: 0.12em;
 	font-weight: 600;
 	font-size: 9pt;
-	color: #7F7D7D;
+	color: #7F7E7D;
+	margin-top: 8px;
 }
 
 .little-links a{
@@ -210,7 +211,7 @@ a.nav-link:hover{
   	text-decoration: none;
   	border-bottom: ;
 	padding-bottom: 2px;
-	color: #7F7D7D;
+	color: #7F7E7D;
 
 }
 
