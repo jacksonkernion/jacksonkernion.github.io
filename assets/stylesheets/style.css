@@ -6,7 +6,7 @@ body{
 }
 
 h1{
-	font-size: 20pt;
+	font-size: 19pt;
 	font-weight: 600;
 	padding-bottom: 0px;
 	margin-top: 3rem;
@@ -172,7 +172,6 @@ a.nav-link:hover{
 }
 
 .item-title {
-	font-size: 12pt;
 	font-weight: 600;
 	color: black;
 	margin-bottom: .3rem;
