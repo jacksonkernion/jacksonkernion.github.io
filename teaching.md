@@ -8,16 +8,16 @@ I grade student papers anonymously using a simple online tool I built, [Paper Gr
 
 I create interactive practice problems for my logic students at [deductivelogic.org](http://deductivelogic.org), a tool I originally built for Ned Hall's introductory logic course at Harvard. Here's [a demo problem set](http://deductivelogic.org/psets/demo).
 
-<p>I U+2665 handouts. Some samples:</p>
+I &#2665 handouts. Some samples:
 
 {: .little-links }
 [<i class="fa fa-file-o" aria-hidden="true"></i> Writing Handout](assets/Kernion - Writing Handout.pdf)
 
 {: .little-links }
-[<i class="fa fa-file-o" aria-hidden="true"></i> Metaphysics - Parfit's "The Puzzle of Reality" Explainer](assets/Kernion - Phil 125 Handout - Parfit's The Puzzle of Reality.pdf)
+[<i class="fa fa-file-o" aria-hidden="true"></i> Parfit's "The Puzzle of Reality"](assets/Kernion - Phil 125 Handout - Parfit's The Puzzle of Reality.pdf)
 
 {: .little-links }
-[<i class="fa fa-file-o" aria-hidden="true"></i> Theory of Knowledge - Guest Lecture on Dogmatism](assets/Kernion - Phil 122 Guest Lecture - Dogmatism.pdf)
+[<i class="fa fa-file-o" aria-hidden="true"></i> Guest Lecture on Dogmatism](assets/Kernion - Phil 122 Guest Lecture - Dogmatism.pdf)
 
 
 # Courses Taught as GSI
