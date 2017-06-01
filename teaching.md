@@ -8,7 +8,7 @@ I grade student papers anonymously using a simple online tool I built, [Paper Gr
 
 I create interactive practice problems for my logic students at [deductivelogic.org](http://deductivelogic.org), a tool I originally built for Ned Hall's introductory logic course at Harvard. Here's [a demo problem set](http://deductivelogic.org/psets/demo).
 
-I &#2665 handouts. Some samples:
+I &#2665; handouts. Some samples:
 
 {: .little-links }
 [<i class="fa fa-file-o" aria-hidden="true"></i> Writing Handout](assets/Kernion - Writing Handout.pdf)
@@ -26,41 +26,27 @@ I &#2665 handouts. Some samples:
 Metaphysics <span class="subtitle">・ Geoffrey Lee ・ Fall 2016</span>
 
 {: .item-title}
-Modern Philosophy
-{: .item-description } 
-Hannah Ginsborg ・ Spring 2016
+Modern Philosophy <span class="subtitle">・ Hannah Ginsborg ・ Spring 2016</span>
 
 {: .item-title}
-Philosophical Methods
-{: .item-description } 
-Barry Stroud ・  Fall 2015
+Philosophical Methods <span class="subtitle">・ Barry Stroud ・  Fall 2015</span>
+
 
 {: .item-title}
-The Nature of Mind
-{: .item-description }
-Umrao Sethi ・ Summer 2015
+The Nature of Mind <span class="subtitle">・ Umrao Sethi ・ Summer 2015</span>
 
 {: .item-title}
-Knowledge & Its Limits
-{: .item-description }
-John Perry ・ Spring 2015
+Knowledge & Its Limits <span class="subtitle">・ John Perry ・ Spring 2015</span>
 
 {: .item-title}
-Theory of Knowledge
-{: .item-description }
-Barry Stroud ・ Fall 2014
+Theory of Knowledge <span class="subtitle">・ Barry Stroud ・ Fall 2014</span>
 
 {: .item-title}
-Introduction to Logic
-{: .item-description }
-Daniel Warren ・ Spring 2014
+Introduction to Logic <span class="subtitle">・ Daniel Warren ・ Spring 2014</span>
 
 {: .item-title}
-The Nature of Mind
-{: .item-description }
-John Campbell ・ Fall 2013
+The Nature of Mind <span class="subtitle">・ John Campbell ・ Fall 2013</span>
 
 {: .item-title}
-Philosophy of Mind
-{: .item-description }
-Paul Skokowski ・ Summer 2013
+Philosophy of Mind <span class="subtitle">・ Paul Skokowski ・ Summer 2013</span>
+
