@@ -6,7 +6,7 @@ body{
 }
 
 h1{
-	font-size: 19pt;
+	font-size: 20pt;
 	font-weight: 600;
 	padding-bottom: 0px;
 	margin-top: 3rem;
@@ -82,7 +82,7 @@ a.navbar-brand{
   font-size: 12pt;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.15em;
+  letter-spacing: 0.12em;
   color: black;
 }
 
