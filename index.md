@@ -8,6 +8,7 @@ I graduated from Harvard in 2012 with a philosophy degree in the interdisciplina
 
 I keep up a coding hobby by building [tools](/tools) for academics. I meditate (not frequently enough). I like to hike, [debate](https://medium.com/@jacksonkernion/harvard-wants-to-ban-gender-discrimination-heres-why-that-s-smart-b9d4a5652fbb) [politics](https://medium.com/@jacksonkernion/trumpism-represents-a-gamergate-style-backlash-against-pc-culture-672d65058999), and play complex [board](https://boardgamegeek.com/boardgame/13/catan) [games](https://boardgamegeek.com/boardgame/68448/7-wonders). 
 
+{: .little-links }
 [FULL CV →](assets/CV - Jackson Kernion.pdf)
 
 <!-- 
