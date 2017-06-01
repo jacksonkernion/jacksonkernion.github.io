@@ -178,6 +178,10 @@ a.nav-link:hover{
 	margin-top: .5rem;
 }
 
+.row .item-title{
+	margin-top: 0;
+}
+
 .item-description{
 	margin-bottom: .3rem;
 }
