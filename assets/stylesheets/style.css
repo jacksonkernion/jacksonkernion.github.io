@@ -161,9 +161,10 @@ a.nav-link:hover{
 }
 
 .footer{
-	margin-top:4rem;
+	width:100%;
+	position: absolute;
+	bottom: 0;
 	padding-top: 1rem;
-	margin-bottom: 1rem;
 	border-top: 1.5px solid #eae8e8;
 }
 
@@ -214,7 +215,7 @@ a.nav-link:hover{
 }
 
 .email{
-	font-family: "Inconsolata", monospace;
+	/* font-family: "Inconsolata", monospace; */
 	font-size: 11pt;
 	padding: 15px 0 10px;
 }
@@ -231,7 +232,7 @@ a.nav-link:hover{
 
 .main {
 	margin-top: 30px;
-	min-height: 90%;
+	padding-bottom: 120px;
 }
 
 .page-description {
