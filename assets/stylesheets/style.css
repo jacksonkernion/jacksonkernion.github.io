@@ -5,18 +5,29 @@ body{
 	background-color: #F8F7F5;
 }
 
+
 h1{
-	font-size: 20pt;
+	font-size: 18pt;
 	font-weight: 600;
 	padding-bottom: 0px;
 	margin-top: 3rem;
 	margin-bottom: 1rem;
-}
+} 
+
+/*
+h1{
+text-transform: uppercase;
+	letter-spacing: 0.12em;
+	font-weight: 600;
+	font-size: 12pt;
+	color: black;
+	margin-top: 3rem;
+	margin-bottom: 1rem;
+} */
 
 .main h1:first-child{
 	margin-top:0;
 }
-
 
 
 h2{
@@ -47,16 +58,63 @@ p{
 	line-height: 1.35;
 }
 
+/* Option 1 */
+
 .main a{
-	display: inline-block;
 	color: #7F7E7D;
 	text-decoration: underline;
 }
 
 .main a:hover {
+	color: black;
 	text-decoration: underline;
+}
+
+.main p a:hover {
 	color: black;
 }
+
+.main p.item-title a{
+	color: black;
+	text-decoration: none;
+	border-bottom: 1px solid #999;
+}
+.main p.item-title a:hover{
+	border-color: black;
+}
+
+
+/* Option 2 */
+
+/*
+.main a{
+	color: #7F7E7D;
+	text-decoration: none;
+}
+
+.main a:hover {
+	color: black;
+	text-decoration: none;
+}
+
+.main p a {
+	color: #7F7E7D;
+	border-bottom: 1px solid #999;
+	padding-bottom:0;
+}
+
+.main p a:hover {
+	color: black;
+	border-color: black;
+}
+
+.main p.item-title a{
+	color: black;
+}
+ */
+
+
+
 
 .container{
 	max-width:660px;
@@ -199,7 +257,7 @@ a.nav-link:hover{
 	font-weight: 400;
 }
 
-.little-links{
+p.little-links{
 	text-transform: uppercase;
 	letter-spacing: 0.12em;
 	font-weight: 600;
@@ -208,17 +266,17 @@ a.nav-link:hover{
 	margin-top: 8px;
 }
 
-.little-links a{
+p.little-links a{
  	display: inline-block;
   	position: relative;
   	text-decoration: none;
   	border-bottom: ;
 	padding-bottom: 2px;
 	color: #7F7E7D;
-
+	border-style:none;
 }
 
-.little-links a:hover{
+p.little-links a:hover{
 	text-decoration: none;
 	color: black;
 }

@@ -9,9 +9,8 @@ title: Tools
     <img src="assets/images/papergrader.jpg" class="rounded img-fluid tools-img mt-md-0 mb-md-0 mt-4 mb-4">
   </div>
   <div class="col-12 col-md-8 pull-md-4">
-    <p class="item-title">Paper Grader</p>
-    <p class="item-description">This is a simple tool that helps streamline the paper-grading process. Students submit their papers at a unique assignment URL, teacherspaper mark up these is done via a clean online interface, and all graded papers can be returned with one click.</p>
-    <p class="little-links"><a href="http://papergrader.org"><i class="fa fa-external-link" aria-hidden="true"></i> Website</a> ・ <a href="http://papergrader.org/demo"><i class="fa fa-external-link" aria-hidden="true"></i> Demo</a></p>
+    <p class="item-title"><a href="http://papergrader.org/demo">Paper Grader</a></p>
+    <p class="item-description">This is a simple tool that helps streamline the paper-grading process. Students submit their papers at a unique assignment URL, teachers mark them up online, and all papers get returned with one click.</p>
   </div>
 </div>
 
@@ -31,8 +30,8 @@ title: Tools
     <img src="assets/images/deductivelogic.jpg" class="rounded img-fluid tools-img mt-md-0 mb-md-0 mt-4 mb-4">
   </div>
   <div class="col-12 col-md-8 pull-md-4">
-    <p class="item-title">deductivelogic.org</p>
+    <p class="item-title"><a href="http://deductivelogic.org/psets/demo">deductivelogic.org</a></p>
     <p class="item-description">I built this for Harvard's introductory deductive logic class. Teachers can create interactive problem sets that automatically check students work.</p>
-    <p class="little-links"><a href="http://deductivelogic.org"><i class="fa fa-external-link" aria-hidden="true"></i> Website</a> ・ <a href="http://deductivelogic.org/psets/demo"> <i class="fa fa-external-link" aria-hidden="true"></i> Demo</a></p>
+    <!-- <p class="little-links"><a href="http://deductivelogic.org"><i class="fa fa-external-link" aria-hidden="true"></i> Website</a> ・ <a href="http://deductivelogic.org/psets/demo"><i class="fa fa-external-link" aria-hidden="true"></i> Demo</a></p> -->
   </div>
 </div>
