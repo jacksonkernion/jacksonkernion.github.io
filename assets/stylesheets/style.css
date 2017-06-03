@@ -77,7 +77,7 @@ p{
 .main p.item-title a{
 	color: black;
 	text-decoration: none;
-	border-bottom: 1px solid #999;
+	border-bottom: 1.5px solid #eae8e8;;
 }
 .main p.item-title a:hover{
 	border-color: black;
@@ -158,6 +158,17 @@ a.nav-link:hover{
 
 .nav-link.active{
 	color:black;
+}
+
+.footer{
+	margin-top:1rem;
+	padding-top: 1rem;
+	margin-bottom: 1rem;
+	border-top: 1.5px solid #eae8e8;
+}
+
+.footer p{
+	color: #aaa;
 }
 
 .explainer-text{
