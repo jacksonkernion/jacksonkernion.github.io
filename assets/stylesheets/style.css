@@ -77,10 +77,10 @@ p{
 .main p.item-title a{
 	color: black;
 	text-decoration: none;
-	border-bottom: 1.5px solid #eae8e8;;
+	border-bottom: 1.5px solid #eae8e8;
 }
 .main p.item-title a:hover{
-	border-color: black;
+	border-bottom: 1px solid black;
 }
 
 
@@ -161,14 +161,23 @@ a.nav-link:hover{
 }
 
 .footer{
-	margin-top:1rem;
+	margin-top:4rem;
 	padding-top: 1rem;
 	margin-bottom: 1rem;
 	border-top: 1.5px solid #eae8e8;
 }
 
 .footer p{
-	color: #aaa;
+	color: #bbb;
+}
+
+.footer a{
+	color: #bbb;
+	text-decoration: underline;
+}
+
+.footer a:hover{
+	color: #7F7F7F;
 }
 
 .explainer-text{
