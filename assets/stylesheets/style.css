@@ -89,7 +89,7 @@ p{
 /* Links: Option 2 */
 
 
-.main a{
+.main a {
 	color: #7F7E7D;
 	text-decoration: none;
 }
@@ -149,11 +149,13 @@ p{
 
 .footer a{
 	color: #bbb;
-	text-decoration: underline;
+	text-decoration: none;
+	border-bottom: 1.4px solid #ccc;
 }
 
 .footer a:hover{
 	color: #7F7F7F;
+	border-color: #7F7F7F;
 }
 
 
