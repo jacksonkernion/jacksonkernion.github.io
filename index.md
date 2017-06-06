@@ -8,7 +8,7 @@ I graduated from Harvard in 2012 with a philosophy degree in the interdisciplina
 
 I work primarily in philosophy of mind, epistemology, and philosophy of science. I argue in my dissertation that our concept of conscious experience is a particular kind of functional concept.
 
-I keep up a coding hobby by building [tools](/tools) for academics. I meditate (not frequently enough). I like to hike, [debate](https://medium.com/@jacksonkernion/harvard-wants-to-ban-gender-discrimination-heres-why-that-s-smart-b9d4a5652fbb) [politics](https://medium.com/@jacksonkernion/trumpism-represents-a-gamergate-style-backlash-against-pc-culture-672d65058999), and play complex [board](https://boardgamegeek.com/boardgame/13/catan) [games](https://boardgamegeek.com/boardgame/68448/7-wonders). 
+I keep up a coding hobby by building [tools](/tools) for academics. I meditate (not frequently enough). I like to hike, [debate](https://medium.com/@jacksonkernion/harvard-wants-to-ban-gender-discrimination-heres-why-that-s-smart-b9d4a5652fbb) [politics](https://medium.com/@jacksonkernion/trumpism-represents-a-gamergate-style-backlash-against-pc-culture-672d65058999), and play complex [board](https://boardgamegeek.com/boardgame/13/catan) [games](https://boardgamegeek.com/boardgame/68448/7-wonders).
 
 {: .little-links }
 [<i class="fa fa-file-o" aria-hidden="true"></i> FULL CV](assets/CV - Jackson Kernion.pdf)
