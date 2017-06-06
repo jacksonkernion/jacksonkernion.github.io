@@ -62,9 +62,8 @@ measurement problem:
 
 This sort of strategy has a two-step structure:
 
-Observe P/A overlap in our own case.
-
-Take this P/A overlap data as a guide for interpreting third-personal
+1. Observe P/A overlap in our own case.
+2. Take this P/A overlap data as a guide for interpreting third-personal
 data in cases for which we don’t have first-personal data.
 
 *Standard criticism*: step 2 is founded on the unearned assumption that
