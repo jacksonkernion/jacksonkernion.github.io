@@ -59,6 +59,10 @@ p{
 	line-height: 1.35;
 }
 
+.post p{
+	color: black;
+}
+
 /* Links: Option 1 
 
 .main a{

@@ -21,11 +21,11 @@ another.
 
 # 1・The Mental Measurement Problem, Laid Out
 
-## Starting Point
+### Starting Point
 
 Imagine that some scientists are considering the hypothesis that you have bat-sonar experiences. How would we test this hypothesis? In general, what sort of evidence do we require in support of judgments about what subjects do/don’t experience? And if, by your own lights, you *don’t* enjoy bat-sonar experiences, could any ‘scientific’ evidence ever be persuade you to believe otherwise?
 
-## Overlap Questions and Empirical Method
+### Overlap Questions and Empirical Method
 
 Under conceptual dualism, we can’t learn anything about the P/A overlap
 a priori, so their pattern of co-instantiation will be discoverable only
@@ -36,7 +36,7 @@ overlap questions:
 
 *Procedure*: Observe a bunch of instances of *F* and *G* under various conditions (in the hopes of collecting a representative sample) and then inductively infer overall F/G overlap on the basis of the patterns we pick up on from observed instances.
 
-## A Measurement Problem
+### A Measurement Problem
 
 Suppose we used we designed a G-meter to track G-ness by way of tracking F-ness. This G-meter would be useless in our endeavor to answer the F/G
 overlap question. We’d be able to predict in advance of any observation
@@ -74,7 +74,7 @@ question.
 *My criticism*: How does one ever establish step 1, the P/A overlap in
 one’s own case?
 
-## The Wide Nature of the mental measurement problem
+### The Wide Nature of the mental measurement problem
 
 The mental measurement problem is not merely restricted to ‘problem’
 cases; it challenges our everyday judgments. Consider how it applies to
@@ -94,7 +94,7 @@ observation of our own experience is also called into question for
 precisely the same reasons it calls into question experience judgments
 in ‘problem’ cases.
 
-## Objections and Replies
+### Objections and Replies
 
 **Acquaintance objection:** Perception/observation may require a
 two-step process where we need to ‘interpret’ data from the senses. But
@@ -126,7 +126,7 @@ the info, not even given a chance. So it’s hard to find anything
 ‘irrational’ about not knowing that you’re having experiences that are
 unknowable.
 
-**3・Background Assumption Strategy**
+# 3・Background Assumption Strategy
 
 (I’m mostly skipping this for this presentation, but I’ll mention it
 here in case people want to discuss it.)
