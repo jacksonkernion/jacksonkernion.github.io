@@ -57,7 +57,7 @@ Cartesian skepticism, Berkeley's idealism, Humean skepticism, the existence of G
 Theory of Knowledge <span class="item-details">・ Barry Stroud ・ Fall 2014</span>
 
 {: .item-description}
-A close investigation of three kinds of problems in epistemology: the external world problem, the problem of induction, the problem of other minds.
+A close investigation of three kinds of problems in epistemology: the problem of the external world, the problem of induction, the problem of other minds.
 
 {: .item-title}
 Introduction to Logic <span class="item-details">・ Daniel Warren ・ Spring 2014</span>
