@@ -8,12 +8,7 @@ I grade student papers anonymously using a simple online tool I built, [Paper Gr
 
 I create interactive practice problems for my logic students at [deductivelogic.org](http://deductivelogic.org/psets/demo), a tool I originally built for Ned Hall's introductory logic course at Harvard.
 
-I use handouts when I want to guide students' attention, to provide an easily-navigable 'map' of the issues under discussion. But if handouts aren't carefully constructed, they can discourage active listening or serve as a visual distraction from an oral presentation or excahnge. So good handouts do the following things:
-
-- Highlight questions/problems and avoid spoon-feeding students over-simplified summaries of the material.
-- Allow for self-guided reflection by giving the students the freedom to linger on points of interest, to jump back/look ahead. 
-- Obviate rote note-taking, making it easier for students to think critically about the material as it's being presented.
-- Make it easier to jump in and out of group discussion by providing everyone with a static, shared point of reference for important quotes, key claims, and discussion questions.
+I use handouts when I want to guide students' attention, to provide an easily-navigable 'map' of the issues under discussion. Handouts should be carefully constructed to: a) highlight questions/problems and avoid spoon-feeding students over-simplified summaries of the material, b) allow for self-guided reflection by giving the students the freedom to linger on points of interest, to jump back/look ahead, c) obviate rote note-taking, making it easier for students to think critically about the material as it's being presented, and d)make it easier to jump in and out of group discussion by providing everyone with a static, shared point of reference for important quotes, key claims, and discussion questions.
 
 Some sample handouts of mine:
 
