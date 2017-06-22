@@ -2,13 +2,13 @@
 title: Research
 ---
 
-# Papers
+# Papers & Presentations
 
 {: .item-title}
 Strange Experience: <span class="subtitle">Why Experience Without Access Makes No Sense</span>
 
 {: .item-description }
-I introduce a challenge to the view that thinking about minds in a first-personal, how-it-feels way is cleanly separable from thinking about minds in a third-personal, how-it-works way. I focus on a thought experimenet involving phenomenology without function, the ‘contrapositive’ of widely-discussed zombie cases.
+I introduce a challenge to the view that thinking about minds in a first-personal, how-it-feels way is cleanly separable from thinking about minds in a third-personal, how-it-works way. I focus on a set of thought experiments involving phenomenology without function, the ‘contrapositive’ of widely-discussed zombie cases.
 
 {: .little-links }
 [<i class="fa fa-file-o" aria-hidden="true"></i> Draft](assets/Kernion - Strange Experience.pdf) ・ [<i class="fa fa-file-o" aria-hidden="true"></i> Pacific APA Handout](assets/Kernion - Strange Experience - Pacific APA Handout.pdf)
@@ -43,7 +43,7 @@ By reflecting on cases of functionally isolated experiences (which I take to be 
 Cognitive Architecture and Computation
 
 {: .item-description }
-While I mostly focus on conceptual issues in my dissertation (where I argue that minds, in general, are integrated systems which unify the outputs of many task-specific subsystems), my preferred conceptual conclusions naturally lead to future work that lies at the intersection of philosophy and science--work that goes about the task of constructing a model of the contingent architecture of human minds that conforms to the a priori constraints laid out in my dissertation. Here, I'm most interested in showing that we can't specify a general 'thinking module' over and above the collection task-specific modules: 'thinking' is just the ebb and flow of outputs that are dumped into a single global workspace.
+While I mostly focus on conceptual issues in my dissertation (where I argue that minds, in general, are integrated systems which unify disparate phenomenal states), my preferred conceptual conclusions naturally lead to future work that lies at the intersection of philosophy and science--work that goes about the task of constructing a model of the contingent architecture of human minds that conforms to the a priori constraints laid out in my dissertation. Here, I'm most interested in showing that we can't specify a general 'thinking module' over and above the collection task-specific modules: 'thinking' is just the ebb and flow of outputs that are dumped into a single global workspace.
 
 
 {: .item-title}

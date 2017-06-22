@@ -6,9 +6,9 @@ I’m a Philosophy PhD student at UC Berkeley.
 
 I graduated from Harvard in 2012 with a philosophy degree in the interdisciplinary Mind, Brain, and Behavior program.
 
-I work primarily in philosophy of mind, epistemology, and philosophy of science. I argue in my dissertation that our concept of conscious experience is a particular kind of functional concept.
+I work primarily in philosophy of mind, epistemology, and philosophy of science. I argue in my dissertation that our concept of conscious experience is a particular kind of functional concept, that we necessarily rely on a tacit functional model when reasoning about experiences and experiencers.
 
-I keep up a coding hobby by building [tools](/tools) for academics. I meditate (not frequently enough). I like to hike. I also like strategy [board](https://boardgamegeek.com/boardgame/13/catan) [games](https://boardgamegeek.com/boardgame/68448/7-wonders).
+I keep up a coding hobby by building [tools](/tools) for academics. I meditate (not frequently enough). I like to hike. And I immensely enjoy the friendly competition of strategy-based [board](https://boardgamegeek.com/boardgame/13/catan) [games](https://boardgamegeek.com/boardgame/68448/7-wonders).
 
 {: .little-links }
 [<i class="fa fa-file-o" aria-hidden="true"></i> FULL CV](assets/CV - Jackson Kernion.pdf)
