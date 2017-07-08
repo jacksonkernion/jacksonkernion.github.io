@@ -46,7 +46,7 @@ The fine-tuning argument, modality & possible worlds, time (A-theory vs. B-theor
 Modern Philosophy <span class="item-details">・ Hannah Ginsborg ・ Spring 2016</span>
 
 {: .item-description}
-Descartes' <i>Meditations"</i>, Spinoza's <i>Ethics"</i>, Berkeley's <i>Three Dialogues</i>, Hume's <i>An Enquiry Concerning Human Understanding</i>, Kant's <i>Critique of Pure Reason</i>.
+Descartes' <i>Meditations</i>, Spinoza's <i>Ethics</i>, Berkeley's <i>Three Dialogues</i>, Hume's <i>An Enquiry Concerning Human Understanding</i>, Kant's <i>Critique of Pure Reason</i>.
 
 {: .item-title}
 Philosophical Methods <span class="item-details">・ Barry Stroud ・ Fall 2015</span>
