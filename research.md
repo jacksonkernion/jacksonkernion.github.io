@@ -29,7 +29,7 @@ The Conceptual Interaction Problem: <span class="subtitle">The Impossible Metaph
 I show how a conceptual gap between the phenomenal facts and the functional facts makes any metaphysical link between the two unintelligible. In short, we run into a conceptual interaction problem that mirrors the old, familiar substance interaction problem.
 
 {: .little-links }
-Draft available on request
+Draft in progress
 
 {: .item-title}
 The Case for Austere Conceptual Functionalism
@@ -38,7 +38,7 @@ The Case for Austere Conceptual Functionalism
 After setting up a framework for articulating different kinds of a priori entailment relations, I show how the familiar difficulties of 'ambitious' conceptual functionalism don't carry over to an 'austere' version of the view, which is independently attractive.
 
 {: .little-links }
-Draft available on request
+Draft in progress
 
 # Dissertation
 
