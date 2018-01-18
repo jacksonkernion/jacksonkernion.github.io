@@ -4,7 +4,7 @@ title: Home
 
 I’m a Philosophy PhD student at UC Berkeley, working in philosophy of mind, epistemology, and philosophy of science.
 
-I argue in my dissertation that we necessarily rely on a tacit functional model when reasoning about experiences and experiencers, that our concept of conscious experience is a particular kind of functional concept.
+I argue in my dissertation that out concept of consciousness is a *functional* concept. This stands in opposition to the view, popular amongst philosophers of mind, that thinking of the mind in a first-personal, experiential way is distinct from thinking of the mind in a third-personal, scientific way. The ultimate goal is to articulate the conceptual foundations that make a science of consciousness possible.
 
 I graduated from Harvard in 2012 with a philosophy degree in the interdisciplinary Mind, Brain, and Behavior program.
 
