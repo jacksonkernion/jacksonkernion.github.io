@@ -37,6 +37,12 @@ Some sample handouts of mine:
 # Courses Taught as GSI
 
 {: .item-title}
+The Nature of Mind <span class="item-details">・ John Campbell ・ Spring 2018</span>
+
+{: .item-description}
+Imaginative understanding vs. causal explanation (the first-personal vs. the third-personal); functionalism; imaginative understanding and personal identity; agency and free will.
+
+{: .item-title}
 Metaphysics <span class="item-details">・ Geoffrey Lee ・ Fall 2016</span>
 
 {: .item-description}

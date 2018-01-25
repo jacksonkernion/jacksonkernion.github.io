@@ -353,6 +353,24 @@ p.little-links a:hover{
 */
 
 
+/* PAPER PAGE ELEMENTS */
+
+.paper-container{
+	font-family: 'Charter', serif;
+}
+
+
+
+.paper-container .title {
+	margin-top: 
+	font-size: 18pt;
+	font-weight: 700;
+}
+
+.paper-container .author {
+
+}
+
 
 
 
