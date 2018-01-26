@@ -3,12 +3,19 @@
     <i class="fa fa-bars"></i>
     </button>
 
-    <a class="navbar-brand" href="/">Jackson Kernion</a>
+    <a class="navbar-brand" href="{{ '/' | absolute_url }}">{{ site.title }}</a>
     <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
       <ul class="navbar-nav">
-        <li class="nav-item"><a class="nav-link {% if page.title == 'Research' %} active {% endif %}" href="/research">Research</a></li>
-        <li class="nav-item"><a class="nav-link {% if page.title == 'Teaching' %} active {% endif %}" href="/teaching">Teaching</a></li>
-        <li class="nav-item"><a class="nav-link {% if page.title == 'Tools' %} active {% endif %}" href="/tools">Tools</a></li>
+        {% for link in site.data.navigation %}
+          {% if link.url contains 'http' %}
+            {% assign domain = '' %}
+          {% else %}
+            {% assign domain = site.url | append: site.baseurl %}
+          {% endif %}
+          <li class="nav-item">
+            <a class="nav-link {% if page.title == link.title %} active {% endif %}" href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
+          </li>
+        {% endfor %}
       </ul>
     </div>
 </nav>
