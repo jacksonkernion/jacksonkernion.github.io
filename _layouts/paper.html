@@ -1,0 +1,16 @@
+{% include header.html %}
+<body>
+  <div class="main container paper-container">
+  	<div class="title">{{ page.title }}</div>
+  	<div>
+  		<div class="author">{{ page.author }}</div>
+  		<div class="date">{{ page.date }}</div>
+  	</div>
+  	<div class="abstract">
+  		<p>ABSTRACT</p>
+  		<p>{{ page.abstract }}</p>
+  	</div>
+    {{ content }}
+  </div>
+{% include footer.html %}
+</body>

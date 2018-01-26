@@ -1,5 +1,6 @@
 ---
 title: Home
+layout: home
 ---
 
 I’m a Philosophy PhD student at UC Berkeley, working in philosophy of mind, epistemology, and philosophy of science.
@@ -11,7 +12,7 @@ I graduated from Harvard in 2012 with a philosophy degree in the interdisciplina
 I keep up a coding hobby by building [tools](/tools) for academics. I meditate (not frequently enough). I like to hike. And I enjoy the friendly competition of strategy-based [board](https://boardgamegeek.com/boardgame/13/catan) [games](https://boardgamegeek.com/boardgame/68448/7-wonders).
 
 {: .little-links }
-[<i class="fa fa-file-o" aria-hidden="true"></i> FULL CV](assets/CV - Jackson Kernion.pdf)
+[<i class="fa fa-file-o" aria-hidden="true"></i> CV](files/CV - Jackson Kernion.pdf)
 
 <!-- 
 

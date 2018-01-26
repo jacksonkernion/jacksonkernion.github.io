@@ -1,54 +1,9 @@
 {% include header.html %}
 <body>
-<nav class="navbar navbar-toggleable container">
-    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <i class="fa fa-bars"></i>
-    </button>
-
-    <a class="navbar-brand" href="/">Jackson Kernion</a>
-    <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
-      <ul class="navbar-nav">
-        <li class="nav-item"><a class="nav-link {% if page.title == 'Research' %} active {% endif %}" href="/research">Research</a></li>
-        <li class="nav-item"><a class="nav-link {% if page.title == 'Teaching' %} active {% endif %}" href="/teaching">Teaching</a></li>
-        <li class="nav-item"><a class="nav-link {% if page.title == 'Tools' %} active {% endif %}" href="/tools">Tools</a></li>
-      </ul>
-    </div>
-</nav>
-
-<div class="container">
-  <div class="navbar-border"></div>
-</div>
+{% include navbar.html %}
 
 <div class="main container">
-
-  {% if page.title == "Home" %}
-
-    <div class="row about-container">
-    <div class="profile col-12 col-sm-4 push-sm-8 text-center">
-      <img src="assets/images/profile.jpg" class="rounded img-fluid">
-      <div class="contact-links">
-        <div class="email">jacksonkernion@gmail.com</div>
-        <div class="social-links">
-          <a href="https://www.facebook.com/jackson.kernion"><i class="fa fa-facebook" aria-hidden="true"></i></a> 
-          <a href="https://twitter.com/JacksonKernion"><i class="fa fa-twitter" aria-hidden="true"></i></a> 
-          <a href="https://github.com/jacksonkernion"><i class="fa fa-github" aria-hidden="true"></i></a> 
-          <a href="https://berkeley.academia.edu/JacksonKernion"><i class="ai ai-academia"></i></a> 
-          <a href="https://www.researchgate.net/profile/Jackson_Kernion"><i class="ai ai-researchgate"></i></a> 
-          <a href="https://philpapers.org/profile/102304"><i class="ai ai-philpapers"></i></a> 
-        </div>
-      </div>
-    </div>
-    <div class="col-12 col-sm-8 pull-sm-4 short-bio">
-      {{ content }}
-    </div>
-    </div>
-
-  {% else %}
-
-    {{ content }}
-
-  {% endif %}
-
+  {{ content }}
 </div>
 
 {% include footer.html %}

@@ -1,0 +1,17 @@
+{% for item in include.list %}
+<p class="item-title">{{ item.title }}{% if item.subtitle %}: <span class="subtitle">{{ item.subtitle }}</span>{% endif %}{% for detail in item.details %} <span class="item-details">・ {{ detail }}</span>{% endfor %}</p>
+<p class="item-description"> {{ item.description}} </p>
+{% if item.resources %}
+<ul class="item-resources">
+{% for resource in item.resources %}
+	<li>
+	{% if resource[1] %}
+		<a href="files/{{resource[1]}}"><i class="fa fa-file-o" aria-hidden="true"></i> {{ resource[0] }}</a>
+	{% else %}
+		{{ resource }}
+	{% endif %}
+	</li>
+{% endfor %}
+</ul>
+{% endif %}
+{% endfor %}

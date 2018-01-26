@@ -1,6 +1,7 @@
 ---
 title: Why Harvard's Ban on Single-Gender Organizations is Smart
 date: Jun 5 2017
+published: false
 ---
 
 Harvard will start sanctioning members of single-gender, off-campus social clubs. This is a huge move, and it will, in due time, force all such clubs to go co-ed. (If the ban on leadership positions and scholarship eligibility doesn't prove an effective nudge, [Faust's letter to Dean Khurana](http://www.harvard.edu/president/news/2016/letter-on-single-gender-social-organizations) suggests that they'll ratchet up these sanctions until they find something effective.)
