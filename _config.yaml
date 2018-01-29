@@ -1,19 +1,25 @@
 # [Put some welcome message here]
 
 # Site Settings
-title       : 'Jackson Kernion'
-description : "" # Used primarily for SEO
-locale      : "en-US"
-repository  : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-head_scripts :
-
+title             : 'Jackson Kernion'
+title_separator   : "—"
+description       : "Jackson Kernion's personal website. Philosophy and code." # Used primarily for SEO
+locale            : "en-US"
+repository        : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+head_scripts      :
 
 collections:
-  - research
+  publications:
+    categories:
+      Papers:
+        description: "papers description."
+      Dissertation:
+  talks:
+  teaching:
 
 # Site Author PGP keys, Academicons
 author:
-  name             : "Your Name"
+  name             : "Jackson Kernion"
   avatar           : /assets/images/profile.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : # e.g. "Asscociate Professor, Philosophy, MIT"
   location         : # e.g. "Cambridge, MA"
@@ -60,9 +66,9 @@ atom_feed:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : google-universal # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : UA-25396873-1
 
 # SEO Related
 google_site_verification :
@@ -72,9 +78,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : jacksonkernion
 facebook:
-  username               :
+  username               : jackson.kernion
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
