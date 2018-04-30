@@ -13,6 +13,7 @@ A semi-annual gathering for those working in philosophy of mind to present and d
 
 ### Schedule (Tentative)
 
+|   |   |
 | ---: | :--- |
 | 9:30-9:45am | *Coffee & Breakfast* |
 | 9:45-10:30am | **Jackson Kernion** <br/> Phenomenal Residue and Phenomenal Realism |
