@@ -3,9 +3,9 @@ title: The Dennes Lectures on Mind
 layout: post
 ---
 
-# The Dennes Lecture on Mind  
-Sunday, May 6, 2018  
-The Dennes Room, 234 Moses Hall
+# The Dennes Lectures on Mind  
+<i class="fa-calendar"></i> Sunday, May 6, 2018  
+<i class="fa-map-marker"></i> The Dennes Room, 234 Moses Hall
 
 A semi-annual gathering for those working in philosophy of mind to present and discuss work in progress. 
 
@@ -26,5 +26,3 @@ A semi-annual gathering for those working in philosophy of mind to present and d
 <sup>*</sup>Speakers and a limited number of attendees will have lunch provided. If you would like to attend the lunch, please email Jackson Kernion, the event organizer, at jacksonkernion@gmail.com
 
 Organized by UC Berkeley's Philosophy of Mind graduate student group, with funding provided by the Townsend Center.
-
-Subject to change. For an up-to-date schedule, see: jacksonkernion.com/dennes-lectures
