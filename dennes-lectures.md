@@ -4,12 +4,14 @@ layout: post
 ---
 
 # The Dennes Lectures on Mind  
-<i class="fa-calendar"></i> Sunday, May 6, 2018  
-<i class="fa-map-marker"></i> The Dennes Room, 234 Moses Hall
+<i class="fa fa-calendar"></i> Sunday, May 6, 2018  
+<i class="fa fa-map-marker"></i> The Dennes Room, 234 Moses Hall
 
 A semi-annual gathering for those working in philosophy of mind to present and discuss work in progress. 
 
-## Schedule (Tentative)
+---
+
+### Schedule (Tentative)
 
 |---:|:---|
 | 9:30-9:45am | *Coffee & Breakfast* |
