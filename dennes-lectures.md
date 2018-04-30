@@ -4,7 +4,7 @@ layout: post
 ---
 
 # The Dennes Lectures on Mind  
-<i class="fa fa-calendar"></i> Sunday, May 6, 2018  
+<i class="fa fa-calendar"></i> Sun, May 6, 2018; 9:30am-4:00pm  
 <i class="fa fa-map-marker"></i> The Dennes Room, 234 Moses Hall
 
 A semi-annual gathering for those working in philosophy of mind to present and discuss work in progress. 
@@ -15,14 +15,15 @@ A semi-annual gathering for those working in philosophy of mind to present and d
 
 |   |   |
 | ---: | :--- |
-| 9:30-9:45am | *Coffee & Breakfast* |
-| 9:45-10:30am | **Jackson Kernion** <br/> Phenomenal Residue and Phenomenal Realism |
-| 10:30-11:15am | **Dave Suarez** <br/> Time Will Tell |
-| 11:15am-12:15pm | **Carlos Montemayor** (UCSF) <br/> Linguistic Skills and Attention |
-| 12:15-1:30pm | _Lunch<sup>*</sup>_ |
-| 1:30-2:15pm | **Greyson Abid** <br/> The Puzzle of the Bandwidth of Perceptual Experience|
-| 2:15-3:00pm| **Adam Bradley** <br/> The Feeling of Bodily Ownership |
-| 3:00-4:00pm |  **John Campbell** <br/> TBA|
+| 9:30am | *Coffee & Breakfast* |
+| 9:45am | **Jackson Kernion** <br/> Phenomenal Residue and Phenomenal Realism |
+| 10:30am | **Dave Suarez** <br/> Time Will Tell |
+| 11:15pm | **Carlos Montemayor** (UCSF) <br/> Linguistic Skills and Attention |
+| 12:15pm | _Lunch<sup>*</sup>_ |
+| 1:30pm | **Greyson Abid** <br/> The Puzzle of the Bandwidth of Perceptual Experience|
+| 2:15pm| **Adam Bradley** <br/> The Feeling of Bodily Ownership |
+| 3:00pm |  **John Campbell** <br/> TBA|
+| 4:00pm |  *End*|
 
 ---
 
