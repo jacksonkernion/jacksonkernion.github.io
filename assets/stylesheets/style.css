@@ -171,6 +171,8 @@ p, li{
 	/* margin-top: 10px; */
 	/* got rid of padding to allow for border */
 	padding-bottom: 0;
+	border-bottom: 1.5px solid #eae8e8;
+	width: 100%;
 
 }
 
