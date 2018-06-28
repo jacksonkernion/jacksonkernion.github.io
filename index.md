@@ -9,7 +9,7 @@ I argue in my dissertation that our concept of consciousness is a *functional* c
 
 I graduated from Harvard in 2012 with a philosophy degree in the interdisciplinary Mind, Brain, and Behavior program.
 
-I keep up a coding hobby by building [tools](/tools) for academics. I meditate (not frequently enough). I like to hike. And I enjoy the friendly competition of strategy-based [board](https://boardgamegeek.com/boardgame/13/catan) [games](https://boardgamegeek.com/boardgame/68448/7-wonders).
+I keep up a coding hobby by building [tools](/tools) for academics. I like to hike. And I enjoy the friendly competition of strategy-based [board](https://boardgamegeek.com/boardgame/13/catan) [games](https://boardgamegeek.com/boardgame/68448/7-wonders).
 
 {: .little-links }
 [<i class="fa fa-file-o" aria-hidden="true"></i> CV](files/CV - Jackson Kernion.pdf)

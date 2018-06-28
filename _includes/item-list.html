@@ -1,17 +1,23 @@
 {% for item in include.list %}
-<p class="item-title">{{ item.title }}{% if item.subtitle %}: <span class="subtitle">{{ item.subtitle }}</span>{% endif %}{% for detail in item.details %} <span class="item-details">・ {{ detail }}</span>{% endfor %}</p>
-<div class="item-description"> {{ item.description | markdownify}} </div>
-{% if item.resources %}
-<ul class="item-resources">
-{% for resource in item.resources %}
-	<li>
-	{% if resource[1] %}
-		<a href="files/{{resource[1]}}"><i class="fa fa-file-o" aria-hidden="true"></i> {{ resource[0] }}</a>
-	{% else %}
-		{{ resource }}
+<div class="item">
+	<div class="item-header">
+		<div class="item-title">{{ item.title }}{% if item.subtitle %}: <span class="subtitle">{{ item.subtitle }}</span>{% endif %}{% for detail in item.details %} <span class="item-details">・ {{ detail }}</span>{% endfor %}</div>
+		<div class="item-info"></div>
+	</div>
+	<div class="item-description"> {{ item.description | markdownify}} </div>
+	{% if item.resources %}
+		<ul class="item-footer">
+		{% for resource in item.resources %}
+			<li>
+			{% if resource[1] %}
+				<a href="files/{{resource[1]}}"><i class="fa fa-file-o" aria-hidden="true"></i> {{ resource[0] }}</a>
+			{% else %}
+				{{ resource }}
+			{% endif %}
+			</li>
+		{% endfor %}
+		</ul>
 	{% endif %}
-	</li>
-{% endfor %}
-</ul>
-{% endif %}
+</div>
+
 {% endfor %}
