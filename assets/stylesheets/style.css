@@ -411,6 +411,12 @@ p.little-links a:hover{
 }
 
 
+td {
+	vertical-align: top;
+	padding: 4px;
+}
+
+
 
 
 
