@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+{{content}}
+
+{% assign collection = site[page.archive_collection] %}
+{% assign collection_data = site.collections | where: "label", page.archive_collection | first %}
+{% assign categories = collection_data.categories %}
+{% for category in categories %}
+	{% assign group = collection | where: "category", category[0] %}
+	{% if group %}
+		<h1>{{ category[0] }}</h1>
+		{% if category[1].description %}
+			<p>{{ category[1].description }}</p>
+		{% endif %}
+		{% include item-list.html list=group%}
+	{% endif %}
+{% endfor %}
+

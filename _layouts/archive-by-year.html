@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+{{content}}
+
+{% assign collection = site[page.archive_collection] %}
+{% assign items_by_year = collection | group_by_exp:"item", "item.date | date: '%Y'" %}
+{% for year in items_by_year %}
+	<h1>{{ year.name }}</h1>
+	{% assign group = year.items %}
+	{% include item-list.html list=group %}
+{% endfor %}
+

@@ -1,16 +1,39 @@
-{% include header.html %}
-<body>
-  <div class="main container paper-container">
-  	<div class="title">{{ page.title }}</div>
-  	<div>
-  		<div class="author">{{ page.author }}</div>
-  		<div class="date">{{ page.date }}</div>
-  	</div>
-  	<div class="abstract">
-  		<p>ABSTRACT</p>
-  		<p>{{ page.abstract }}</p>
-  	</div>
+---
+---
+
+<!doctype html>
+
+<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
+  <head>
+    {% include head.html %}
+  </head>
+
+  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
+
+    {% include navbar.html %}
+
+    <div class="main container paper-container">
+    <div class="title">{{ page.title }}</div>
+    <div>
+      <div class="author">{{ page.author }}</div>
+      <div class="date">{{ page.date }}</div>
+    </div>
+    <div class="abstract">
+      <p>ABSTRACT</p>
+      <p>{{ page.abstract }}</p>
+    </div>
     {{ content }}
-  </div>
-{% include footer.html %}
-</body>
+    </div>
+
+    {% if site.search == true %}
+      <div class="search-content">
+        {% include search_form.html %}
+      </div>
+    {% endif %}
+
+    {% include footer.html %}
+
+    {% include scripts.html %}
+
+  </body>
+</html>

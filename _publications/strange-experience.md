@@ -2,6 +2,7 @@
 title: Strange Experience
 subtitle: Why Experience Without Access Makes No Sense
 date: 2017-01-01
+category: Papers
 resources:
   Draft: "Kernion - Strange Experience.pdf"
   Pacific APA Handout: "Kernion - Strange Experience - Pacific APA Handout.pdf"

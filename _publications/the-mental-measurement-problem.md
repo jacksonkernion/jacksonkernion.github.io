@@ -2,6 +2,7 @@
 title: The Mental Measurement Problem
 subtitle: The Frictionless Epistemology of Conceptual Dualism
 date: 2017-02-01
+category: Papers
 resources:
   "Draft available on request":
   SPP Handout: "Kernion - The Mental Measurement Problem - SPP Handout.pdf"

@@ -1,31 +1,10 @@
-{% include header.html %}
-<body>
-{% include navbar.html %}
+---
+layout: default
+---
 
-<div class="main container">
-
-  <div class="row about-container">
-  <div class="profile col-12 col-sm-4 push-sm-8 text-center">
-    <img src="assets/images/profile.jpg" class="rounded img-fluid">
-    <div class="contact-links">
-      <div class="email">jacksonkernion@gmail.com</div>
-      <div class="social-links">
-        <a href="https://www.facebook.com/jackson.kernion"><i class="fa fa-facebook" aria-hidden="true"></i></a> 
-        <a href="https://twitter.com/JacksonKernion"><i class="fa fa-twitter" aria-hidden="true"></i></a> 
-        <a href="https://github.com/jacksonkernion"><i class="fa fa-github" aria-hidden="true"></i></a> 
-        <a href="https://berkeley.academia.edu/JacksonKernion"><i class="ai ai-academia"></i></a> 
-        <a href="https://www.researchgate.net/profile/Jackson_Kernion"><i class="ai ai-researchgate"></i></a> 
-        <a href="https://philpapers.org/profile/102304"><i class="ai ai-philpapers"></i></a> 
-      </div>
-    </div>
-  </div>
+<div class="row about-container">
+  {% include author-profile.html %}
   <div class="col-12 col-sm-8 pull-sm-4 short-bio">
     {{ content }}
   </div>
-  </div>
-
 </div>
-
-{% include footer.html %}
-
-</body>

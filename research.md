@@ -4,7 +4,8 @@ title: Research
 
 # Papers & Presentations
 
-{% include item-list.html list=site.research %}
+{% assign papers = site.publications | where: "category", "Papers" %}
+{% include item-list.html list=papers %}
 
 # Dissertation
 
