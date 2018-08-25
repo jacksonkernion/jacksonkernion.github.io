@@ -4,11 +4,11 @@ title: Teaching
 
 # Teaching Tools & Materials
 
-I grade student papers anonymously using a simple online tool I built, [Paper Grader](http://papergrader.org/demo).
+I grade student papers anonymously using an online tool I built, [Paper Grader](http://papergrader.org/demo).
 
-I create interactive practice problems for my logic students at [deductivelogic.org](http://deductivelogic.org/psets/demo), a tool I originally built for Ned Hall's introductory logic course at Harvard.
+I create interactive practice problems for my logic students at [deductivelogic.org](http://deductivelogic.org/psets/demo), a tool I originally built in coordination with Ned Hall, for his introductory logic course at Harvard.
 
-I use handouts when I want to provide an easily-navigable 'map' of the issues under discussion. Some sample handouts of mine:
+I use handouts when I want to guide students' attention, to provide an easily-navigable 'map' of the issues under discussion. Some sample handouts of mine:
 
 <!--
 

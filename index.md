@@ -3,9 +3,9 @@ title: Home
 layout: home
 ---
 
-I’m a Philosophy PhD student at UC Berkeley, working in philosophy of mind, epistemology, and philosophy of science.
+I’m a Philosophy PhD student at UC Berkeley, working in philosophy of mind, epistemology, and philosophy of science. I'm visiting NYU for 2018-2019.
 
-I argue in my dissertation that our concept of consciousness is a *functional* concept. This stands in opposition to the view, popular amongst philosophers of mind, that thinking of the mind in a first-personal, experiential way is distinct from thinking of the mind in a third-personal, scientific way. The ultimate goal is to articulate the conceptual foundations that make a science of consciousness possible.
+I argue in my dissertation that our concept of consciousness is a *functional* concept. This stands in opposition to the widely-held view that thinking of the mind in a first-personal, how-it-feels way is distinct from thinking of the mind in a third-personal, scientific way. The ultimate goal is to articulate the conceptual foundations that make a science of consciousness possible.
 
 I graduated from Harvard in 2012 with a philosophy degree in the interdisciplinary Mind, Brain, and Behavior program.
 
