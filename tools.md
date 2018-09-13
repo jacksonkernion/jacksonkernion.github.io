@@ -10,7 +10,7 @@ title: Tools
   </div>
   <div class="col-12 col-md-8 pull-md-4">
     <p class="item-title"><a href="http://papergrader.org/demo">Paper Grader</a></p>
-    <p class="item-description">This is a simple tool that helps streamline the paper-grading process. Students submit their papers at a unique assignment URL, teachers mark them up online, and all papers get returned with one click.</p>
+    <p class="item-description">This is a tool that helps streamline the paper-grading process. Students submit their papers at a unique assignment URL, teachers mark them up online, and all papers get returned with one click.</p>
   </div>
 </div>
 
