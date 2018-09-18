@@ -3,3 +3,6 @@ _site/
 .jekyll-metadata
 test.html
 CNAME
+.DS_Store
+Gemfile
+Gemfile.lock
