@@ -34,7 +34,7 @@ A full set of scanned student evaluation forms, by course:
 
 <div class="item">
   <div class="item-header">
-    <p class="item-title"><a href="files/evals/summer2015.pdf">The Nature of Mind</a> <span class="subtitle"> ・ Phil 3 ・ Umrao Sethi・ Summer 2015</span></p>
+    <p class="item-title"><a href="files/evals/summer2015.pdf">The Nature of Mind</a> <span class="subtitle">・ Phil 3 ・ Umrao Sethi・ Summer 2015</span></p>
   </div>
 </div>
 
