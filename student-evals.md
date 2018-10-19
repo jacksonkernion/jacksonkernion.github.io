@@ -10,13 +10,13 @@ A full set of scanned student evaluation forms, by course:
 
 <div class="item">
   <div class="item-header">
-    <p class="item-title"><a href="files/evals/spring2018.pdf">The Nature of Mind</a> ・ Phil 3 ・ John Campbell ・ Spring 2018</p>
+    <p class="item-title"><a href="files/evals/spring2018.pdf">The Nature of Mind</a> <span class="subtitle">・ Phil 3 ・ John Campbell ・ Spring 2018</span></p>
   </div>
 </div>
 
 <div class="item">
   <div class="item-header">
-    <p class="item-title"><a href="files/evals/fall2016.pdf">Metaphysics</a> ・ Phil 125 ・ Geoffrey Lee ・ Fall 2016</p>
+    <p class="item-title"><a href="files/evals/fall2016.pdf">Metaphysics</a> <span class="subtitle">・ Phil 125 ・ Geoffrey Lee ・ Fall 2016</span></p>
   </div>
 </div>
 
