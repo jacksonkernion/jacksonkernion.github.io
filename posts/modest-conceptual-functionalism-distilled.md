@@ -1,5 +1,7 @@
 ---
 title: Modest Conceptual Functionalism, Distilled
+layout: post
+
 ---
 
 _As I work on cleaning up and finishing my dissertation, I'm creating 'distilled', snack-sized versions of each chapter. I hope this helps me: a) see the 'big picture', b) get high-level feedback from more people, and c) entice people to read the real thing._
