@@ -1,7 +1,6 @@
 ---
 title: Modest Conceptual Functionalism, Distilled
 layout: post
-
 ---
 
 # Modest Conceptual Functionalism, Distilled
@@ -16,7 +15,9 @@ The main question I want to look at: How are phenomenal concepts related to func
 
 I find it useful to think about this question in the following way: Imagine we have two lists. On one list, we have every possible phenomenal description. On the other list, we have every possible functional description. We can answer our original question by answering: which functional descriptions can be read off which phenomenal descriptions, and vice versa?
 
-Different answers, then, will map onto different ways of mapping out the entailments linking these two lists.
+Different answers, then, will map onto different ways of mapping out the entailments linking these two lists:
+
+<img src="assets/images/entailments.gif" class="img-fluid">
 
 With that model in mind, I want to give a high-level sketch of the space of possible views.
 
@@ -28,7 +29,7 @@ This view has two big problems: absent qualia and inverted qualia. Such cases se
 
 And so we might be attracted to the other extreme end of possible views:
 
-- **Conceptual dualism:** The phenomenal is conceptually independent of the functional. You can't read off phenomenal facts from functional facts. Nor can you read off functional facts from phenomenal facts.
+- **Conceptual dualism:** The phenomenal is conceptually independent of the functional. Phenomenal descriptions don't entail functional descriptions, and vice versa.
 
 In my estimation, too many philosophers have embraced conceptual dualism---whether or not they fully realize it. You'll regularly encounter claims like these, from Brain Loar's "Phenomenal States":
 
@@ -37,7 +38,7 @@ In my estimation, too many philosophers have embraced conceptual dualism---wheth
 
 That is, they elide the conceptual *irreducibility* of the phenomenal to the functional with a sort of conceptual *independence*. A much better option is:
 
-- **Modest conceptual functionalism:** Some phenomenal concepts have built-in functional constraints. So while you can't read off phenomenal facts from functional facts, you *can* (sometimes/always) read off functional facts from phenomenal facts.
+- Modest conceptual functionalism: Some phenomenal concepts have built-in functional constraints. So while functional descriptions don't entail phenomenal descriptions, at least *some* phenomenal descriptions entail functional descriptions.
 
 Modest conceptual functionalism, as a category, covers any view that eschews functional-to-phenomenal entailments but embraces some form of phenomenal-to-functional entailment. But which sorts of functional constraints on phenomenology are plausible? Where should we look?
 
@@ -49,5 +50,9 @@ I see two promising sources:
 
 Why does this all this matter? Why care about conceptual dualism vs. modest conceptual functionalism? Two big reasons:
 
-- _The intelligibility of physicalism:_ Even if physicalism isn't true, it at least seems like an intelligible view--more intelligible than the view that phenomenal concsciousness is Barack Obama's uncle. Modest conceptual functionalism can make sense of this intelligibility, while conceptual dualism cannot.
-- _The tractability of a science of consciousness:_ If conceptual dualism were true, it would make a science of consciousness impossible. Confronted with two different hypotheses about the  *actual* link between phenomenology and cognitive function, we wouldn't know how to bring objective, third-personal evidence to bear on this decision. Even if there aren't any entailments from the functional to the phenomenal, we could still use phenomenal-to-functional entailments to help guide our empirical project.
+- _The intelligibility of physicalism:_ Even if physicalism isn't true, it at least seems like an intelligible view---more intelligible than the view that phenomenal consciousness is the rate of economic growth in Bulgaria. Modest conceptual functionalism can make sense of this intelligibility, while conceptual dualism cannot.
+
+- _The tractability of a science of consciousness:_ If conceptual dualism were true, it would make a science of consciousness impossible. Confronted with two different hypotheses about the  *actual* correlation between phenomenal properties and functional properties, we wouldn't know how to bring objective, third-personal evidence to bear on this issue. Even if there aren't any entailments from the functional to the phenomenal, we could still use phenomenal-to-functional entailments to help provide 'guardrails' for our empirical project.
+
+
+<img src="assets/images/views.jpg" class="img-fluid">
