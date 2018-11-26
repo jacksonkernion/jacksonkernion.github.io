@@ -17,7 +17,7 @@ I find it useful to think about this question in the following way: Imagine we h
 
 Different answers, then, will map onto different ways of mapping out the entailments linking these two lists:
 
-<img src="assets/images/entailments.gif" class="img-fluid">
+<img src="http://jacksonkernion.com/assets/images/entailments.gif" class="img-fluid">
 
 With that model in mind, I want to give a high-level sketch of the space of possible views.
 
@@ -44,7 +44,7 @@ Modest conceptual functionalism, as a category, covers any view that eschews fun
 
 I see two promising sources:
 
-- *Subject-based constraints:* The idea of a phenomenal subject might contain within it an idea of how phenomenal subjects have to be structured, in functional terms. The possibility for such a constraint is hinted at in the way absent qualia cases are constructed: it's telling that we first need to identify *candidate* experience-havers before we then go about *subtracting* their phenomenology. Pursuing this line of inquiry will, I think, reveal that phenomenal subjects have to implement a kind of working-memory-like structure. (Strange experience cases can, I think, be used to uncover such constraints.)
+- *Subject-based constraints:* The idea of a phenomenal subject might contain within it an idea of how phenomenal subjects have to be structured, in functional terms. The possibility for such a constraint is hinted at in the way absent qualia cases are constructed: it's telling that we first need to identify *candidate* experience-havers before we then go about *subtracting* their phenomenology. Pursuing this line of inquiry will, I think, reveal that phenomenal subjects have to implement a kind of working-memory-like structure. ([Strange experience](http://jacksonkernion.com/posts/strange-experience-distilled) cases can, I think, be used to uncover such constraints.)
 
 - *Phenomenal-kind-based constraints:* Different phenomenal kinds (e.g. color experience, auditory experience) might, necessarily, meet kind-specific functional constraints. The possibility for such constraints is hinted at in the way inverted qualia cases are constructed: it's telling that we think red experience/green experience phenomenal swaps are, intuitively, more intelligible then, say, red experience/anxiety phenomenal swaps. Pursuing this line of inquiry will, I think, reveal that the structure of phenomenal variation for each phenomenal kind has to be matched by the structure of functional variation in any underlying state. (Dissonant qualia cases can, I think, be used to uncover such constraints.)
 
@@ -55,4 +55,4 @@ Why does this all this matter? Why care about conceptual dualism vs. modest conc
 - _The tractability of a science of consciousness:_ If conceptual dualism were true, it would make a science of consciousness impossible. Confronted with two different hypotheses about the  *actual* correlation between phenomenal properties and functional properties, we wouldn't know how to bring objective, third-personal evidence to bear on this issue. Even if there aren't any entailments from the functional to the phenomenal, we could still use phenomenal-to-functional entailments to help provide 'guardrails' for our empirical project.
 
 
-<img src="assets/images/views.jpg" class="img-fluid">
+<img src="http://jacksonkernion.com/assets/images/views.jpg" class="img-fluid">

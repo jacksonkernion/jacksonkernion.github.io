@@ -3,11 +3,13 @@ title: Strange Experience, Distilled
 layout: post
 ---
 
+# Strange Experience, Distilled
+
 _As I work on cleaning up and finishing my dissertation, I'm creating 'distilled', snack-sized versions of each chapter. I hope this helps me: a) see the 'big picture', b) get high-level feedback from more people, and c) entice people to read the real thing._
 
 _This post distills "Strange Experience: Why Experience Without Access Makes No Sense"._
 
-Philosophical zombies---beings exactly like us in every *physical* (and therefore *functional*) way, but lack phenomenal consciousness---are designed to test the conceptual link between phenomenal consciousness and functional structure. If we can conceive of beings that duplicate our functional structure *without* duplicating our phenomenology, that tells us something important: phenomenal truths outstrip mere functional truths. And so the phenomenal cannot be conceptually *reduced* to the functional.
+Philosophical zombies---beings exactly like us in every *physical* (and therefore *functional*) way, but lacking phenomenal consciousness---are designed to test the conceptual link between phenomenal consciousness and functional structure. If we can conceive of beings that duplicate our functional structure *without* duplicating our phenomenology, that tells us something important: phenomenal truths outstrip mere functional truths. And so the phenomenal cannot be conceptually *reduced* to the functional.
 
 But zombies only test one direction of entailment: from the functional to the phenomenal. What about phenomenal-to-functional entailment? Even if we can’t read off phenomenal facts from functional facts, we may still be able to read off functional facts from phenomenal facts.
 
@@ -33,4 +35,4 @@ I, myself, go in for an *access*-based constraint. The basic idea is this: When 
 
 For the full story, check out [my paper](http://jacksonkernion.com/files/Kernion%20-%20Strange%20Experience.pdf).
 
-<img src="assets/images/strange-experience.jpg" class="img-fluid">
+<img src="http://jacksonkernion.com/assets/images/strange-experience.jpg" class="img-fluid">
