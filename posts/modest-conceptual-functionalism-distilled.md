@@ -4,6 +4,8 @@ layout: post
 
 ---
 
+# Modest Conceptual Functionalism, Distilled
+
 _As I work on cleaning up and finishing my dissertation, I'm creating 'distilled', snack-sized versions of each chapter. I hope this helps me: a) see the 'big picture', b) get high-level feedback from more people, and c) entice people to read the real thing._
 
 _This post distills "Making Room for Modest Conceptual Functionalism"._
@@ -35,7 +37,7 @@ In my estimation, too many philosophers have embraced conceptual dualism---wheth
 
 That is, they elide the conceptual *irreducibility* of the phenomenal to the functional with a sort of conceptual *independence*. A much better option is:
 
-Modest conceptual functionalism: Some phenomenal concepts have built-in functional constraints. So while you can't read off phenomenal facts from functional facts, you *can* (sometimes/always) read off functional facts from phenomenal facts.
+- **Modest conceptual functionalism:** Some phenomenal concepts have built-in functional constraints. So while you can't read off phenomenal facts from functional facts, you *can* (sometimes/always) read off functional facts from phenomenal facts.
 
 Modest conceptual functionalism, as a category, covers any view that eschews functional-to-phenomenal entailments but embraces some form of phenomenal-to-functional entailment. But which sorts of functional constraints on phenomenology are plausible? Where should we look?
 
