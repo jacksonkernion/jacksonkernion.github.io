@@ -419,6 +419,10 @@ td {
 }
 
 
+blockquote p{
+	margin: 0 0 1.6em 0 !important; 
+}
+
 
 
 
