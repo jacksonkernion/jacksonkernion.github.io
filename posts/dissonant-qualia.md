@@ -3,6 +3,8 @@ title: Dissonant Qualia, Distilled
 layout: post
 ---
 
+# Dissonant Qualia, Distilled
+
 _As I work on cleaning up and finishing my dissertation, I'm creating 'distilled', snack-sized versions of each chapter. I hope this helps me: a) see the 'big picture', b) get high-level feedback from more people, and c) entice people to read the real thing._
 
 _This post distills "Dissonant Qualia: Why Phenomenal Kinds Must Have Matching Functional Kinds"._

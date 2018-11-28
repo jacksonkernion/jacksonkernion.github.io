@@ -37,4 +37,13 @@ I, myself, go in for an *access*-based constraint. The basic idea is this: When 
 
 For the full story, check out [my paper](http://jacksonkernion.com/files/Kernion%20-%20Strange%20Experience.pdf).
 
+---
+
+For discussion...
+- [Facebook](https://www.facebook.com/jackson.kernion/posts/10156661178175132)
+- [Twitter](https://twitter.com/JacksonKernion/status/1067572536240742400)
+- or email me at jacksonkernion@gmail.com
+
+
 <img src="http://jacksonkernion.com/assets/images/strange-experience.jpg" class="img-fluid">
+
