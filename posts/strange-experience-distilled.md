@@ -9,6 +9,8 @@ _As I work on cleaning up and finishing my dissertation, I'm creating 'distilled
 
 _This post distills "Strange Experience: Why Experience Without Access Makes No Sense"._
 
+---
+
 Philosophical zombies---beings exactly like us in every *physical* (and therefore *functional*) way, but lacking phenomenal consciousness---are designed to test the conceptual link between phenomenal consciousness and functional structure. If we can conceive of beings that duplicate our functional structure *without* duplicating our phenomenology, that tells us something important: phenomenal truths outstrip mere functional truths. And so the phenomenal cannot be conceptually *reduced* to the functional.
 
 But zombies only test one direction of entailment: from the functional to the phenomenal. What about phenomenal-to-functional entailment? Even if we can’t read off phenomenal facts from functional facts, we may still be able to read off functional facts from phenomenal facts.

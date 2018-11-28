@@ -9,6 +9,8 @@ _As I work on cleaning up and finishing my dissertation, I'm creating 'distilled
 
 _This post distills "Making Room for Modest Conceptual Functionalism"._
 
+---
+
 When we talk about 'what it feels like' to be in some mental state, we use _phenomenal concepts_. When we talk about causal architecture, we use _functional concepts_.
 
 The main question I want to look at: How are phenomenal concepts related to functional concepts?
@@ -39,7 +41,7 @@ In my estimation, too many philosophers have embraced conceptual dualism---wheth
 
 That is, they elide the conceptual *irreducibility* of the phenomenal to the functional with a sort of conceptual *independence*. A much better option is:
 
-- Modest conceptual functionalism: Some phenomenal concepts have built-in functional constraints. So while functional descriptions don't entail phenomenal descriptions, at least *some* phenomenal descriptions entail functional descriptions.
+- **Modest conceptual functionalism:** Some phenomenal concepts have built-in functional constraints. So while functional descriptions don't entail phenomenal descriptions, at least *some* phenomenal descriptions entail functional descriptions.
 
 Modest conceptual functionalism, as a category, covers any view that eschews functional-to-phenomenal entailments but embraces some form of phenomenal-to-functional entailment. But which sorts of functional constraints on phenomenology are plausible? Where should we look?
 
