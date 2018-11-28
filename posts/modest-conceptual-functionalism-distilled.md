@@ -35,9 +35,8 @@ And so we might be attracted to the other extreme end of possible views:
 
 In my estimation, too many philosophers have embraced conceptual dualism---whether or not they fully realize it. You'll regularly encounter claims like these, from Brain Loar's "Phenomenal States":
 
-> "Phenomenal concepts are conceptually irreducible in this sense: they neither a priori imply, nor are implied by, physical-functional concepts.”
-
-> "Phenomenal concepts are conceptually independent of physical-functional descriptions..."
+- "Phenomenal concepts are conceptually irreducible in this sense: they neither a priori imply, nor are implied by, physical-functional concepts.”
+- "Phenomenal concepts are conceptually independent of physical-functional descriptions..."
 
 That is, they elide the conceptual *irreducibility* of the phenomenal to the functional with a sort of conceptual *independence*. A much better option is:
 

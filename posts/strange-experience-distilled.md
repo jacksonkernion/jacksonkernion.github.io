@@ -25,7 +25,7 @@ I think this sort of case is inconceivable. If you’re not sure, consider some 
 
 - **Strange experience collection:** A subject has more than one strange experience at once. (e.g. strange pain + strange tickle + strange smell.)
 
-- **Strange modality:** An entire sensory modality of a subject goes strange. (e.g. All visual experience is casually isolated.)
+- **Strange modality:** An entire sensory modality of a subject goes strange. (e.g. All visual experience is causally isolated.)
 
 - **Strange subject:** Every phenomenally conscious state of a subject is causally disconnected from each other. (i.e. the exact opposite of a philosophical zombie.)
 
