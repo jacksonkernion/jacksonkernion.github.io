@@ -32,7 +32,17 @@ Here's one example: say you're having the visual experience of watching a rocket
 5. Swap out all your physical hardware for the physical hardware of an amoeba.
 6. Swap out all you physical hardware for the physical hardware of a single particle, suspended in an otherwise empty universe.
 
-The intuition I want to be pumping is this: phenomenal kinds bring along with them a certain characteristic structure of variation. And that *phenomenal* structure has to be mirrored in *functional* structure of any organism/system to which we ascribe experiences of that kind.
+As we get increasingly further away from the kind of functional architecture that underlies normal human color vision, it should be increasingly implausible to claim that the case is conceivable. In particular, it's implausible that your rocket launch experience, with all it's fine-grain phenomenal distinctions, can have the same sort of relation to these degraded architectures as it has to your existing vision architecture. And while this problem is brought out most clearly in (6), we should, on reflection, recognize that (1) has precisely the same problem.
+
+The larger intuition I want to be pumping is this: phenomenal kinds bring along with them a certain characteristic structure of variation. And that *phenomenal* structure has to be mirrored in *functional* structure of any organism/system to which we ascribe experiences of that kind.
+
+---
+
+For discussion...
+
+- [Facebook](https://www.facebook.com/544290131/posts/10156669107740132)
+- [Twitter](https://twitter.com/jacksonkernion/status/1068900086401429508)
+- or email me at jacksonkernion@gmail.com
 
 <img src="http://jacksonkernion.com/assets/images/dissonant-qualia.png" class="img-fluid">
 
