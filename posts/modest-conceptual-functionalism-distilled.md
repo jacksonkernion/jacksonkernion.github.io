@@ -60,7 +60,7 @@ Why does this all this matter? Why care about conceptual dualism vs. modest conc
 Other Dissertation Posts:
 
 - [Strange Experience, Distilled](http://jacksonkernion.com/posts/strange-experience-distilled)
-- [Dissonant Qualia, Distilled](http://jacksonkernion.com/posts/dissonant-qualia-distilled)
+- [Dissonant Qualia, Distilled](http://jacksonkernion.com/posts/dissonant-qualia)
 
 
 ---

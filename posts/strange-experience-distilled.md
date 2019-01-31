@@ -42,7 +42,7 @@ For the full story, check out [my paper](http://jacksonkernion.com/files/Kernion
 Other Dissertation Posts:
 
 - [Modest Conceptual Functionalism, Distilled](http://jacksonkernion.com/posts/modest-conceptual-functionalism-distilled)
-- [Dissonant Qualia, Distilled](http://jacksonkernion.com/posts/dissonant-qualia-distilled)
+- [Dissonant Qualia, Distilled](http://jacksonkernion.com/posts/dissonant-qualia)
 
 ---
 
