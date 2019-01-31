@@ -38,6 +38,13 @@ The larger intuition I want to be pumping is this: phenomenal kinds bring along 
 
 ---
 
+Other Dissertation Posts:
+
+- [Modest Conceptual Functionalism, Distilled](http://jacksonkernion.com/posts/modest-conceptual-functionalism-distilled)
+- [Dissonant Qualia, Distilled](http://jacksonkernion.com/posts/dissonant-qualia-distilled)
+
+---
+
 For discussion...
 
 - [Facebook](https://www.facebook.com/544290131/posts/10156669107740132)

@@ -39,6 +39,13 @@ For the full story, check out [my paper](http://jacksonkernion.com/files/Kernion
 
 ---
 
+Other Dissertation Posts:
+
+- [Modest Conceptual Functionalism, Distilled](http://jacksonkernion.com/posts/modest-conceptual-functionalism-distilled)
+- [Dissonant Qualia, Distilled](http://jacksonkernion.com/posts/dissonant-qualia-distilled)
+
+---
+
 For discussion...
 - [Facebook](https://www.facebook.com/jackson.kernion/posts/10156661178175132)
 - [Twitter](https://twitter.com/JacksonKernion/status/1067572536240742400)

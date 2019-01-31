@@ -57,11 +57,19 @@ Why does this all this matter? Why care about conceptual dualism vs. modest conc
 - _The tractability of a science of consciousness:_ If conceptual dualism were true, it would make a science of consciousness impossible. Confronted with two different hypotheses about the  *actual* correlation between phenomenal properties and functional properties, we wouldn't know how to bring objective, third-personal evidence to bear on this issue. Even if there aren't any entailments from the functional to the phenomenal, we could still use phenomenal-to-functional entailments to help provide 'guardrails' for our empirical project.
 
 ---
+Other Dissertation Posts:
+
+- [Strange Experience, Distilled](http://jacksonkernion.com/posts/strange-experience-distilled)
+- [Dissonant Qualia, Distilled](http://jacksonkernion.com/posts/dissonant-qualia-distilled)
+
+
+---
 
 For discussion...
 
 - [Facebook](https://www.facebook.com/jackson.kernion/posts/10156658917535132)
 - [Twitter](https://twitter.com/JacksonKernion/status/1067202997137084417)
 - or email me at jacksonkernion@gmail.com
+
 
 <img src="http://jacksonkernion.com/assets/images/views.jpg" class="img-fluid">
