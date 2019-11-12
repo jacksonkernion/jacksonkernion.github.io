@@ -1,8 +1,10 @@
 {% assign author = page.author | default: page.authors[0] | default: site.author %}
 {% assign author = site.data.authors[author] | default: author %}
 
+
 <div class="profile col-12 col-sm-4 push-sm-8 text-center">
   <img src="{{ author.avatar }}" class="rounded img-fluid">
+  <!--
   <div class="contact-links">
     <div class="email">{{ author.email }}</div>
     <div class="social-links">
@@ -14,4 +16,5 @@
       <a href="https://philpapers.org/profile/102304"><i class="ai ai-philpapers"></i></a> 
     </div>
   </div>
+-->
 </div>
