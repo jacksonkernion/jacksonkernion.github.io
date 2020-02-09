@@ -11,4 +11,8 @@ This course is an introduction to the central questions in philosophy of mind. I
 
 ---
 
-More information will be added over the next few days...
+Students should fill out the enrollment survey:
+
+[https://forms.gle/78gDRadLasp7iRbr9](https://forms.gle/78gDRadLasp7iRbr9
+
+And they can find more information and the course materials here: [https://learning-modules.mit.edu/class/index.html?uuid=/course/24/sp20/24.09](https://learning-modules.mit.edu/class/index.html?uuid=/course/24/sp20/24.09)

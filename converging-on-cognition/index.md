@@ -1,5 +1,5 @@
 ---
-title: Minds and Machines
+title: Converging on Cognition
 layout: post
 ---
 
