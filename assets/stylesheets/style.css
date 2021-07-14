@@ -426,7 +426,7 @@ blockquote p{
 }
 .post p{
 	color: black;
-	font-size: 14px;
+	font-size: 13pt;
 	line-height: 1.5;
 }
 
@@ -434,7 +434,7 @@ blockquote p{
 	text-transform: uppercase;
 	letter-spacing: 0.12em;
 	font-weight: 600;
-	font-size: 12pt;
+	font-size: 13pt;
 	color: #7F7E7D;
 	margin-top: 60px;
 }
