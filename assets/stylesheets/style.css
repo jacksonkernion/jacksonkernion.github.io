@@ -439,5 +439,11 @@ blockquote p{
 	margin-top: 60px;
 }
 
+.discourse-comments{
+	margin-top: 60px;
+	background-color: #F8F7F5;
+	font-family: "Source Sans Pro", sans-serif;
+}
+
 
 
