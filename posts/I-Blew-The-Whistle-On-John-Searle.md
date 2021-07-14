@@ -5,9 +5,9 @@ layout: post
 
 # I Blew The Whistle On John Searle
 
-## 1. The Email to BuzzFeed News
+## The Email to BuzzFeed News
 
-In September 2016, I sent [this email] (files/Email to BuzzFeed.pdf) to BuzzFeed News. It amounted to a request for an independent investigation into John Searle’s behavior around students. I provided some specific examples of misconduct, but I knew I had an incomplete picture of things:
+In September 2016, I sent [this email](files/Email to BuzzFeed.pdf) to BuzzFeed News. It amounted to a request for an independent investigation into John Searle’s behavior around students. I provided some specific examples of misconduct, but I knew I had an incomplete picture of things:
 
 > As a grad student in the department, I’ve always heard whispers of his creepy behavior: lectures that include racial slurs and hints of misogyny, his weird penchant for hiring young asian women as assistants, and not-entirely-confirmed cases of sexual harrasment [sic] and unwanted sexual advances.
 > For years, grad students have voiced concerns about Searle through official channels, hoping for some official response.
@@ -83,6 +83,21 @@ I have some informed guesses about what *w*, *x*, *y*, and *z* are, and whether 
 
 As best as I can tell, UC Berkeley is legally allowed to share such information. The fact that they haven't suggests to me that they'd rather not bring attention to numbers *w*, *x*, *y*, and *z*.
 
-By evading public accountability, they demonstrate that they do not deserve public trust.
+By evading public accountability, they show that they do not deserve public trust.
+
+<div id='discourse-comments'></div>
+
+<div id='discourse-comments'></div>
+
+<script type="text/javascript">
+  DiscourseEmbed = { discourseUrl: 'https://discourse.jacksonkernion.com/',
+                     discourseEmbedUrl: 'http://jacksonkernion.com/posts/I-Blew-The-Whistle-On-John-Searle' };
+
+  (function() {
+    var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
+    d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
+  })();
+</script>
 
 
