@@ -7,7 +7,7 @@ layout: post
 
 ## The Email to BuzzFeed News
 
-In September 2016, I sent [this email](~/files/Email to BuzzFeed.pdf) to BuzzFeed News. It amounted to a request for an independent investigation into John Searle’s behavior around students. I provided some specific examples of misconduct, but I knew I had an incomplete picture of things:
+In September 2016, I sent [this email](https://jacksonkernion.com/files/Email to BuzzFeed.pdf) to BuzzFeed News. It amounted to a request for an independent investigation into John Searle’s behavior around students. I provided some specific examples of misconduct, but I knew I had an incomplete picture of things:
 
 > As a grad student in the department, I’ve always heard whispers of his creepy behavior: lectures that include racial slurs and hints of misogyny, his weird penchant for hiring young asian women as assistants, and not-entirely-confirmed cases of sexual harrasment [sic] and unwanted sexual advances.
 > For years, grad students have voiced concerns about Searle through official channels, hoping for some official response.
@@ -69,7 +69,7 @@ This is what informed my decision to write this piece.
 
 ## The Need for Public Accountability
 
-In September 2018, the lawsuit against Searle was [resolved via a confidential settlement](~/files/Law360 Article.pdf).
+In September 2018, the lawsuit against Searle was [resolved via a confidential settlement](https://jacksonkernion.com/files/Law360 Article.pdf).
 
 In June 2019, [it was announced](https://dailynous.com/2019/06/21/searle-found-violated-sexual-harassment-policies/) that Searle "had his emeritus status revoked, along with all the privileges of that title, following a determination that he violated university policies against sexual harassment and retaliation". But no attempt was made to provide a characterization of the facts that informed this determination.
 
