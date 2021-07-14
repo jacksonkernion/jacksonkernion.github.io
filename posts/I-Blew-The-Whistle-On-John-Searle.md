@@ -91,7 +91,7 @@ By evading public accountability, they show that they do not deserve public trus
 
 <script type="text/javascript">
   DiscourseEmbed = { discourseUrl: 'https://discourse.jacksonkernion.com/',
-                     discourseEmbedUrl: 'http://jacksonkernion.com/posts/I-Blew-The-Whistle-On-John-Searle' };
+                     discourseEmbedUrl: 'https://jacksonkernion.com/posts/I-Blew-The-Whistle-On-John-Searle' };
 
   (function() {
     var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
