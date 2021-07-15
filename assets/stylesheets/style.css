@@ -412,9 +412,12 @@ td {
 }
 
 
+blockquote{
+	color: #7F7E7D;
+	border-left: 1.5px solid #7F7D7D;
+}
 blockquote p{
-	background: white;
-	margin: 0 0 20px 10px !important; 
+	
 }
 
 /* POST PAGES */
@@ -435,10 +438,6 @@ blockquote p{
 	font-size: 13pt;
 	color: #7F7E7D;
 	margin-top: 60px;
-}
-
-.post.container p:last-child{
-	margin-bottom: 30px;
 }
 
 .discourse-comments{

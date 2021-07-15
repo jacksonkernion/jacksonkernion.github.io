@@ -10,11 +10,17 @@ layout: post
 In September 2016, I sent [this email](https://jacksonkernion.com/files/Email to BuzzFeed.pdf) to BuzzFeed News. It amounted to a request for an independent investigation into John Searle’s behavior around students. I provided some specific examples of misconduct, but I knew I had an incomplete picture of things:
 
 > As a grad student in the department, I’ve always heard whispers of his creepy behavior: lectures that include racial slurs and hints of misogyny, his weird penchant for hiring young asian women as assistants, and not-entirely-confirmed cases of sexual harrasment [sic] and unwanted sexual advances.
+
 > For years, grad students have voiced concerns about Searle through official channels, hoping for some official response.
+
 > I left that [Phil Forum event with undergrads] with a sense of urgency that I hadn’t felt before. ...can’t something else be done? And if I didn’t do anything about this, what kind of advocate for inclusion am I? Perhaps any drastic actions would negatively affect the philosophy department and my own reputation, but if this were to play any significant role in deciding what to do, wouldn’t I be a coward?
+
 > It’s clear to me that the university won’t ever voluntarily take away the privileges it grants Searle in terms of institutional support and the opportunity to teach undergraduates. It’s equally clear to me that the university won’t, without outside pressure, make public their own investigations into Searle’s behavior. And, in my view, once someone has been identified as a serial harraser [sic], they ought to be named and shamed. The public conversation that ensues is often the only mechanism by which the public can force institutions to change in meaningful ways.
+
 > Maybe there’s less there than I expect. But the possibility of there being “only minor” transgressions here doesn’t absolve any of us from the reponsibility (sic) to do something when we think there might be something “major” going on.
+
 > ...I reached out to another grad student who suggested to me, in the past, that he had been involved in bringing a complaint against Searle. In short, one of his undergrad students had told him that Searle had made a sexual advance on her. ...An excerpt from her email to this grad student is copied below.
+
 > "At the end of our meeting, [Searle] asked me to go to another room, saying that there are more books that he could give me. I was perfectly innocent, following him without any doubts. Upon opening the door, he sprang at me, putting every effort to kiss me."
 
 Around the same time, I met with my department chair and had a phone call with Berkeley's Office for the Prevention Harassment, to similarly express my concerns. At a follow-up meeting, I was told that the student at whom Searle 'sprung' was, to paraphrase, 'not actually a Berkeley undergrad'. This was meant to explain why no action had been taken against Searle in this case? That didn't really make sense to me.
@@ -84,8 +90,6 @@ I have some informed guesses about what *w*, *x*, *y*, and *z* are, and whether 
 As best as I can tell, UC Berkeley is legally allowed to share such information. The fact that they haven't suggests to me that they'd rather not bring attention to numbers *w*, *x*, *y*, and *z*.
 
 By evading public accountability, they show that they do not deserve public trust.
-
-<div id='discourse-comments'></div>
 
 <div id='discourse-comments'></div>
 
