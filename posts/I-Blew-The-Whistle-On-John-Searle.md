@@ -71,7 +71,7 @@ I told my dissertation advisors about my involvement with the BuzzFeed stories a
 
 Only recently have I felt able to fully process things. (I had some false memories of what had occurred, and blamed myself for being unable to effectively cope with the situation.) My own secretiveness had become an ongoing source of pain and stress. I felt like I couldn't be honest about who I was. I got used to pretending everything was fine, while quietly panicking on the inside.
 
-This is what informed my decision to write this piece.
+This is what informed my decision to write this peice.
 
 ## The Need for Public Accountability
 
