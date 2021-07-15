@@ -89,7 +89,7 @@ I have some informed guesses about what *w*, *x*, *y*, and *z* are, and whether 
 
 As best as I can tell, UC Berkeley is legally allowed to share such information. The fact that they haven't suggests to me that they'd rather not bring attention to numbers *w*, *x*, *y*, and *z*.
 
-By evading public accountability, they show that they do not deserve public trust.
+By evading public accountability, they've shown that they don't deserve public trust.
 
 <div id='discourse-comments'></div>
 

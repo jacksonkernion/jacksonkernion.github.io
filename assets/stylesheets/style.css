@@ -413,12 +413,11 @@ td {
 
 
 blockquote{
-	
-	border-left: 1.5px solid #7F7D7D;
+	border-left: 2px solid #7F7D7D;
 }
 blockquote p{
 	padding-left:20px;
-	color: #7F7E7D;
+	color: #7F7E7D !important;
 }
 
 /* POST PAGES */
@@ -438,11 +437,11 @@ blockquote p{
 	font-weight: 600;
 	font-size: 13pt;
 	color: #7F7E7D;
-	margin-top: 60px;
+	margin-top: 40px;
 }
 
-.discourse-comments{
-	margin-top: 60px;
+#discourse-comments{
+	margin-top: 6px;
 	background-color: #F8F7F5;
 	font-family: "Source Sans Pro", sans-serif;
 }
