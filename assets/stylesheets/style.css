@@ -437,7 +437,7 @@ blockquote p{
 	margin-top: 60px;
 }
 
-.post p:last-child{
+.post.container p:last-child{
 	margin-bottom: 30px;
 }
 
