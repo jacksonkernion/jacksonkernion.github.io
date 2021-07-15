@@ -413,11 +413,12 @@ td {
 
 
 blockquote{
-	color: #7F7E7D;
+	
 	border-left: 1.5px solid #7F7D7D;
 }
 blockquote p{
-	
+	padding-left:20px;
+	color: #7F7E7D;
 }
 
 /* POST PAGES */
