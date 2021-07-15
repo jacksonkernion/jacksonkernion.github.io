@@ -417,7 +417,7 @@ blockquote{
 }
 blockquote p{
 	padding-left:20px;
-	color: #7F7E7D !important;
+	color: #bbb !important;
 }
 
 /* POST PAGES */
@@ -441,7 +441,7 @@ blockquote p{
 }
 
 #discourse-comments{
-	margin-top: 6px;
+	margin-top: 60px;
 	background-color: #F8F7F5;
 	font-family: "Source Sans Pro", sans-serif;
 }
