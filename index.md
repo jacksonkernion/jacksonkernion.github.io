@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-I'm a recent UC Berkeley Philosophy PhD, working in philosophy of mind, epistemology, and philosophy of science. I'm visiting MIT during the Spring 2020 term.
+I'm a recent UC Berkeley Philosophy PhD, working in philosophy of mind, epistemology, and philosophy of science. I visited MIT during the Spring 2020 term. I'm currently working on deductivelogic.org v2.0.
 
 I argue in my dissertation that our concept of consciousness is a *functional* concept. This stands in opposition to the conventional view that thinking of the mind in a first-personal, how-it-feels way is distinct from thinking of the mind in a third-personal, scientific way. The goal is to articulate the conceptual foundations that make a science of consciousness possible.
 
