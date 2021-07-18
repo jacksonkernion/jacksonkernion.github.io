@@ -23,11 +23,11 @@ In September 2016, I sent [this email](https://jacksonkernion.com/files/Email to
 
 > "At the end of our meeting, [Searle] asked me to go to another room, saying that there are more books that he could give me. I was perfectly innocent, following him without any doubts. Upon opening the door, he sprang at me, putting every effort to kiss me."
 
-Around the same time, I met with my department chair and had a phone call with Berkeley's Office for the Prevention Harassment, to similarly express my concerns. At a follow-up meeting, I was told that the student at whom Searle 'sprung' was, to paraphrase, 'not actually a Berkeley undergrad'. This was meant to explain why no action had been taken against Searle in this case? That didn't really make sense to me.
+Around the same time, I met with my department chair and had a phone call with Berkeley's Office for the Prevention Harassment and Discrimination, to similarly express my concerns. At a follow-up meeting, I was told that the student at whom Searle 'sprung' was, to paraphrase, 'not actually a Berkeley undergrad'. This was meant to explain why no action had been taken against Searle in this case? That didn't really make sense to me.
 
 In these meetings, and in other meetings I've had over the years, it was stressed that I needed to follow Berkeley's confidentiality policy, and that I should err on the side of privacy. I was also told avoid conducting my own ad hoc investigation. Indeed, it was a because I felt a need for an external, independent investigation that I reached out to BuzzFeed in the first place.
 
-What was important at to me at the time was this: that I did what I could to ensure that Searle’s seeming-at-the-time-to-me-to-be-active sexual harassment of undergrads wasn’t passively accepted by UC Berkeley.
+What was important to me at the time was this: that I did what I could to ensure that Searle’s seeming-at-the-time-to-me-to-be-active sexual harassment of undergrads wasn’t passively accepted by UC Berkeley.
 
 ## The BuzzFeed Articles
 
@@ -65,13 +65,13 @@ That the faculty didn't voluntarily provide more information was not especially 
 
 This was disorienting. I had to update my understanding of 'how the world works'. I started to find it difficult to develop and sustain trusting professional relationships. If academic philosophers passively accepted Searle's abusive behavior, what else were they passively accepting?
 
-I thought it prudent to remain mostly silent about my involvement in the BuzzFeed stories. (I had told just a few close confidants.) But, in retrospect, I think this just made it more difficult to work through my feelings and come to stable understanding of my relationship with academic philosophy. I felt more and more  lonely and isolated.
+I thought it prudent to remain mostly silent about my involvement in the BuzzFeed stories. (I had told just a few close confidants.) But, in retrospect, I think this just made it more difficult to work through my feelings and come to stable understanding of my relationship with academic philosophy. I felt more and more lonely and isolated.
 
 I told my dissertation advisors about my involvement with the BuzzFeed stories at an end-of-year meeting in Spring 2018, before leaving to visit NYU for a year. And after getting my degree in January 2020, I shared some documents with younger grad students in the department, to make sure there was some institutional knowledge of what had occurred.
 
 Only recently have I felt able to fully process things. (I had some false memories of what had occurred, and blamed myself for being unable to effectively cope with the situation.) My own secretiveness had become an ongoing source of pain and stress. I felt like I couldn't be honest about who I was. I got used to pretending everything was fine, while quietly panicking on the inside.
 
-This is what informed my decision to write this peice.
+This is what informed my decision to write this piece.
 
 ## The Need for Public Accountability
 
@@ -83,7 +83,7 @@ What I was after, all along, was a more substantive public accounting of the his
 
 What exactly was I after? Let me make this super concrete:
 
-"Over the course of John Searle's 60 years at Berkeley, the administration received *w* formal complaints against Searle that were treated as sexual harassment complaints, and *x* formal complaints about other kinds of innappropriate behavior. Of those *w* sexual harassment complaints, *y* proceeded through some portion of the formal adjudication process, and *z* reached the end of that process without an informal resolution interrupting that process."
+"Over the course of John Searle's 60 years at Berkeley, the administration received *w* formal complaints against Searle that were treated as sexual harassment complaints, and *x* formal complaints about other kinds of inappropriate behavior. Of those *w* sexual harassment complaints, *y* proceeded through some portion of the formal adjudication process, and *z* reached the end of that process without an informal resolution interrupting that process."
 
 I have some informed guesses about what *w*, *x*, *y*, and *z* are, and whether Searle interfered with the formal adjudication process. But they are, ultimately, still just guesses.
 
