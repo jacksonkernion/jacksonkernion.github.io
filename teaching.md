@@ -46,8 +46,12 @@ Some sample handouts of mine:
 	<div class="item-description"> <p>An introduction to the central questions in philosophy of mind, divided into three parts: 1) Historical Foundations, 2) Consciousness, 3) Cognition and Representation. What kinds of things are mental states (e.g. thoughts, beliefs, desires, sensations, feelings)? Is the mind just the brain? (What else could it be?!) Can a science of the brain answer all of our questions about the mind? What is consciousness, and how is it related to the physical world? How is the mind able to represent the world and reason about it?</p></div>
 </div>
 
-<ul class="item-resources"><li><a href="/files/Syllabus%20-%20Minds%20and%20Machines.pdf"><i class="fa fa-file-o" aria-hidden="true"></i> Syllabus</a>
-</li></ul>
+<ul class="item-resources">
+	<li><a href="/files/Syllabus%20-%20Minds%20and%20Machines.pdf"><i class="fa fa-file-o" aria-hidden="true"></i> Syllabus</a>
+	</li>
+	<li><a href="https://kernion-courses.simplecast.com"><i class="fa fa-external-link" aria-hidden="true"></i> Pandemic-Induced Podcast</a>
+	</li>
+</ul>
 
 # Courses Taught as GSI
 
