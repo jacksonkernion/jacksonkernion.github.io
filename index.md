@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-I do a mix of interface design, data collection, and data analysis for [Anthropic](https://www.anthropic.com)'s human feedback program. The goal is to use human feedback data to make large language models better-align with what humans want, without causing harm.
+I do a mix of interface design, data collection, and data analysis for [Anthropic](https://www.anthropic.com)'s human feedback program. The goal is to use human feedback data to make large language models better-align with humans intent, without causing harm.
 
 As an academic, I studied philosophy of mind, epistemology, and philosophy of science. My work focused on cognitive architecture ("What's the functional relationship between perceptual modalities, working memory, and central cognition?") and methodology in cognitive science ("What kind of evidence counts as evidenc of conscious experience, and why?"). I lectured at MIT during the Spring 2020 term, after receiving my PhD from UC Berkeley.
 
