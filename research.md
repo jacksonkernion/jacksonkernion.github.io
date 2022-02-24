@@ -7,7 +7,6 @@ title: Research
 {% assign aipapers = site.publications | where: "category", "AI" %}
 {% include item-list.html list=aipapers %}
 
-[A General Language Assistant as a Laboratory for Alignment](https://arxiv.org/abs/2112.00861)
 # Philosophy
 
 {% assign papers = site.publications | where: "category", "Papers" %}
