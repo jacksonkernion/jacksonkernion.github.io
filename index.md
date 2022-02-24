@@ -3,13 +3,13 @@ title: Home
 layout: home
 ---
 
-I'm a recent UC Berkeley Philosophy PhD, working in philosophy of mind, epistemology, and philosophy of science. I visited MIT during the Spring 2020 term. I'm currently working on deductivelogic.org v2.0.
+I do a mix of interface design, data collection, and data analysis for [Anthropic](https://www.anthropic.com)'s human feedback program. The ultimate goal is to use human feedback data to make large language models better-align with human intention, without causing harm.
 
-I argue in my dissertation that our concept of consciousness is a *functional* concept. This stands in opposition to the conventional view that thinking of the mind in a first-personal, how-it-feels way is distinct from thinking of the mind in a third-personal, scientific way. The goal is to articulate the conceptual foundations that make a science of consciousness possible.
+As an academic, I studied philosophy of mind, epistemology, and philosophy of science. My work focused on cognitive architecture () and the methodology of cognitive science. I taught a philosophy of mind intro course at MIT during the Spring 2020 term, after receiving my PhD from UC Berkeley.
 
-I graduated from Harvard in 2012 with a philosophy degree in the interdisciplinary Mind, Brain, and Behavior program.
+I procastinated in grad school by building [tools](/tools) for academics.
 
-I keep up a coding hobby by building [tools](/tools) for academics. And I enjoy the friendly competition of strategy-based [board](https://boardgamegeek.com/boardgame/13/catan) [games](https://boardgamegeek.com/boardgame/68448/7-wonders).
+I occasionally write [posts](posts/I-Blew-The-Whistle-On-John-Searle.html)
 
 {: .little-links }
 [<i class="fa fa-file-o" aria-hidden="true"></i> CV](files/CV - Jackson Kernion.pdf)
