@@ -9,7 +9,7 @@ As an academic, I studied philosophy of mind, epistemology, and philosophy of sc
 
 I procastinated in grad school by building [tools](/tools) for academics.
 
-I occasionally write [posts](posts/I-Blew-The-Whistle-On-John-Searle.html)
+I occasionally write [posts](posts/I-Blew-The-Whistle-On-John-Searle.html).
 
 {: .little-links }
 [<i class="fa fa-file-o" aria-hidden="true"></i> CV](files/CV - Jackson Kernion.pdf)
