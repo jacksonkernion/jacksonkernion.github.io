@@ -5,7 +5,7 @@ layout: home
 
 I do a mix of evals, model training, data collection, and interface design for [Anthropic](https://www.anthropic.com)'s human feedback program. We use human feedback data to teach large language models how to do targeted tasks.
 
-As an academic, I studied philosophy of mind, epistemology, and philosophy of science. My work focused on cognitive architecture ("What's the functional relationship between perceptual modalities, working memory, and central cognition?") and methodology in cognitive science ("What kind of evidence counts as evidenc of conscious experience, and why?"). I lectured at MIT during the Spring 2020 term, after receiving my PhD from UC Berkeley.
+As an academic, I studied philosophy of mind, epistemology, and philosophy of science. My work focused on cognitive architecture ("What's the functional relationship between perceptual modalities, working memory, and central cognition?") and methodology in cognitive science ("What kind of evidence counts as evidence of conscious experience, and why?"). I lectured at MIT during the Spring 2020 term, after receiving my PhD from UC Berkeley.
 
 I procastinated in grad school by building [tools](/tools) for academics.
 
