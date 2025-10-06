@@ -69,7 +69,7 @@ I thought it prudent to remain mostly silent about my involvement in the BuzzFee
 
 I told my dissertation advisors about my involvement with the BuzzFeed stories at an end-of-year meeting in Spring 2018, before leaving to visit NYU for a year. And after getting my degree in January 2020, I shared some documents with younger grad students in the department, to make sure there was some institutional knowledge of what had occurred.
 
-Only recently have I felt able to fully process things. (I had some false memories of what had occurred, and blamed myself for being unable to effectively cope with the situation.) My own secretiveness had become an ongoing source of pain and stress. I felt like I couldn't be honest about who I was. I got used to pretending everything was fine, while quietly panicking on the inside.
+Only recently have I felt able to fully process things. My own secretiveness had become an ongoing source of pain and stress. I felt like I couldn't be honest about who I was. I got used to pretending everything was fine, while quietly panicking on the inside.
 
 This is what informed my decision to write this piece.
 
